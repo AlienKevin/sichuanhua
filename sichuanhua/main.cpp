@@ -4,6 +4,7 @@
 #include <unordered_map>
 #include <string>
 #include <numeric>
+#include <unicode/unistr.h>
 
 using namespace std;
 
@@ -52,11 +53,15 @@ int main()
         pr = strip(pr);
         
         // Remove comment after pr
-//        size_t pos = pr.find('◎');
-//        // If the '◎' character is found, remove all characters after it
-//        if (pos != std::string::npos) {
-//            pr = pr.substr(0, pos);
-//        }
+        icu::UnicodeString pr_ustr = icu::UnicodeString::fromUTF8(pr);
+        int32_t index = pr_ustr.indexOf(u"◎");
+        if (index >= 0) {
+            std::string output;
+            pr_ustr.truncate(index);
+            pr_ustr.toUTF8String(output);
+            pr = output;
+//            cout << "pr: " << pr << ", index: " << index << endl;
+        }
         
         if (word.empty() || pr.empty()) {
             continue;
