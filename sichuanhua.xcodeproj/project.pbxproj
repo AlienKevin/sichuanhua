@@ -25,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0A2D64A32A00FE7400EE1DC5 /* 四川方言词典.tsv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "四川方言词典.tsv"; sourceTree = "<group>"; };
 		0A81353029FDD3D40019A025 /* sichuanhua */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = sichuanhua; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A81353329FDD3D40019A025 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		0A81353A29FDD4080019A025 /* shupin.dict.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = shupin.dict.yaml; sourceTree = "<group>"; };
@@ -44,6 +45,7 @@
 		0A81352729FDD3D40019A025 = {
 			isa = PBXGroup;
 			children = (
+				0A2D64A32A00FE7400EE1DC5 /* 四川方言词典.tsv */,
 				0A81353A29FDD4080019A025 /* shupin.dict.yaml */,
 				0A81353229FDD3D40019A025 /* sichuanhua */,
 				0A81353129FDD3D40019A025 /* Products */,
