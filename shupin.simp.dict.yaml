@@ -12,10 +12,8 @@
 唉	ai1		#	2
 欸	ai1		#	2
 挨	ai2			
-挨	ai2			
 癌	ai2			
 崖	ai2			
-岩	ai2			
 岩	ai2			
 皑	ai3			
 毐	ai3			
@@ -48,7 +46,6 @@
 唵	an1			
 犴	an1			
 淹	an1			
-庵	an1			
 垵	an1		#	2
 俺	an2			
 严	an2	2	#	2
@@ -56,7 +53,6 @@
 岸	an4			
 按	an4			
 案	an4			
-暗	an4			
 黯	an4			
 雁	an4			
 𠵫	ang1			
@@ -113,7 +109,6 @@
 坝	ba4			
 罢	ba4			
 霸	ba4			
-坝	ba4			
 灞	ba4			
 八	ba5			
 捌	ba5			
@@ -124,7 +119,6 @@
 鲅	ba5			
 拔	ba5	2	#	2
 捭	bai3			
-摆	bai3			
 摆	bai3			
 拜	bai4			
 败	bai4			
@@ -145,7 +139,6 @@
 舨	ban3			
 𧿨	ban3			
 钣	ban3			
-板	ban3			
 
 半	ban4			
 伴	ban4			
@@ -211,7 +204,6 @@
 陌	be5		#	2
 杯	bei1			
 卑	bei1			
-杯	bei1			
 揹	bei1			
 悲	bei1			
 碑	bei1			
@@ -235,7 +227,6 @@
 焙	bei4		#	2
 蓓	bei4		#	2
 鞴	bei4		#	2
-秘	bei4		#	2
 秘	bei4		#	2
 泍	ben1			
 逩	ben1			
@@ -366,7 +357,6 @@
 表	biao3			
 婊	biao3			
 裱	biao3			
-表	biao3			
 俵	biao3			
 嫑	biao4			
 鳖	bie1			
@@ -398,7 +388,6 @@
 柄	bin3			
 炳	bin3			
 禀	bin3			
-禀	bin3			
 饼	bin3			
 摒	bin3			
 屏	bin3	2	#	2
@@ -406,7 +395,6 @@
 逬	bin4			
 髌	bin4			
 鬓	bin4			
-并	bin4			
 并	bin4			
 病	bin4			
 竝	bin4			
@@ -422,7 +410,6 @@
 播	bo4			
 薄	bo4	2	#	2
 剥	bo5			
-钵	bo5			
 钵	bo5			
 拨	bo5			
 饽	bo5			
@@ -460,7 +447,6 @@
 卜	bu4			
 布	bu4			
 步	bu4			
-布	bu4			
 怖	bu4			
 部	bu4			
 埠	bu4			
@@ -481,12 +467,9 @@
 材	cai2			
 财	cai2			
 裁	cai2			
-才	cai2			
-采	cai3			
 采	cai3			
 彩	cai3			
 睬	cai3			
-彩	cai3			
 踩	cai3	2	#	2
 菜	cai4			
 蔡	cai4			
@@ -538,7 +521,6 @@
 噌	cen1			
 郴	cen1			
 琤	cen1			
-撑	cen1			
 撑	cen1			
 瞠	cen1			
 皴	cen1			
@@ -709,7 +691,6 @@
 螭	chi1			
 鸱	chi1			
 魑	chi1			
-痴	chi1			
 搋	chi1	2	#	2
 笞	chi2			
 池	chi2			
@@ -722,7 +703,6 @@
 褫	chi2			
 侈	chi3			
 耻	chi3			
-耻	chi3			
 齿	chi3			
 叱	chi4			
 敕	chi4			
@@ -732,7 +712,6 @@
 炽	chi4			
 眙	chi4		#	2
 滞	chi4	90%	#	3
-吃	chi5			
 吃	chi5			
 墀	chi5			
 迟	chi5			
@@ -784,17 +763,13 @@
 俦	chou2		#	2
 帱	chou2		#	2
 丑	chou3			
-丑	chou3			
 瞅	chou3		#	2
 臭	chou4		#	2
 樗	chu1			
 除	chu2			
 厨	chu2			
 滁	chu2			
-厨	chu2			
 橱	chu2			
-橱	chu2			
-蹰	chu2			
 蹰	chu2			
 褚	chu2			
 蜍	chu2		#	2
@@ -831,7 +806,6 @@
 椽	chuan2			
 传	chuan2		#	2
 铲	chuan3			
-铲	chuan3			
 舛	chuan3			
 喘	chuan3			
 串	chuan4			
@@ -840,7 +814,6 @@
 闯	chuang1			
 创	chuang1			
 窗	chuang1		#	2
-床	chuang2			
 床	chuang2			
 撞	chuang3			
 吹	chui1			
@@ -886,8 +859,6 @@
 钎	cian1			
 迁	cian1			
 签	cian1			
-签	cian1			
-千	cian1			
 椠	cian1			
 纤	cian1	2	#	2
 前	cian2			
@@ -989,7 +960,6 @@
 秋	ciu1			
 萩	ciu1			
 楸	ciu1			
-秋	ciu1			
 鹙	ciu1			
 愀	ciu1	2	#	2
 湫	ciu1		#	2
@@ -998,7 +968,6 @@
 酋	siu2			
 遒	siu2			
 蝤	siu2			
-
 糗	ciu3			
 搓	co1			
 磋	co1			
@@ -1018,8 +987,6 @@
 凿	co5	2	#	2
 匆	cong1			
 囱	cong1			
-囱	cong1			
-葱	cong1			
 葱	cong1			
 璁	cong1			
 熜	cong1			
@@ -1041,7 +1008,6 @@
 蔟	cou2		#	2
 杻	cou3		#	2
 薮	cou3	2	#	2
-凑	cou4			
 凑	cou4			
 楱	cou4			
 辏	cou4			
@@ -1122,7 +1088,6 @@
 妻	cyi1			
 萋	cyi1			
 凄	cyi1			
-凄	cyi1			
 栖	cyi1			
 齐	cyi2			
 脐	cyi2			
@@ -1135,7 +1100,6 @@
 戚	cyi5			
 嘁	cyi5			
 漆	cyi5			
-戚	cyi5			
 砌	cyi5			
 葺	cyi5			
 碛	cyi5			
@@ -1218,7 +1182,6 @@
 党	dang3			
 挡	dang3			
 档	dang3			
-党	dang3			
 谠	dang3			
 窞	dang4			
 氹	dang4			
@@ -1228,7 +1191,6 @@
 砀	dang4			
 荡	dang4			
 垱	dang4			
-荡	dang4			
 当	dang4	2	#	2
 刂	dao1			
 刀	dao1			
@@ -1346,15 +1308,11 @@
 刁	diao1			
 凋	diao1			
 雕	diao1			
-雕	diao1			
 貂	diao1			
 碉	diao1			
-雕	diao1			
-雕	diao1			
 鲷	diao1			
 屌	diao2		#	2
 屌	diao3		#	2
-吊	diao4			
 吊	diao4			
 钓	diao4			
 铞	diao4			
@@ -1378,7 +1336,6 @@
 蹀	die5			
 谍	die5			
 鲽	die5			
-叠	die5			
 佚	die5	2	#	2
 丁	din1			
 仃	din1			
@@ -1387,7 +1344,6 @@
 耵	din1			
 饤	din1			
 盯	din1		#	2
-
 酊	din3			
 顶	din3			
 鼎	din3			
@@ -1432,7 +1388,6 @@
 苳	dong1			
 东	dong1			
 氡	dong1			
-冬	dong1			
 鸫	dong1			
 崠	dong1			
 咚	dong1		#	2
@@ -1559,7 +1514,6 @@
 鹗	eo5			
 腭	eo5			
 恶	eo5		#	2
-恶	eo5		#	2
 阏	eo5		#	3
 而	er2			
 儿	er2			
@@ -1587,8 +1541,6 @@
 法	fa5			
 砝	fa5			
 珐	fa5			
-珐	fa5			
-发	fa5			
 翻	fan1			
 番	fan1		#	2
 蕃	fan1		#	2
@@ -1610,12 +1562,10 @@
 返	fan3			
 犯	fan4			
 泛	fan4			
-泛	fan4			
 范	fan4			
 畈	fan4			
 贩	fan4			
 饭	fan4			
-范	fan4			
 匚	fang1			
 方	fang1			
 邡	fang1			
@@ -1696,7 +1646,6 @@
 封	fong1			
 风	fong1			
 峰	fong1			
-峰	fong1			
 烽	fong1			
 葑	fong1			
 枫	fong1			
@@ -1704,7 +1653,6 @@
 砜	fong1			
 疯	fong1			
 锋	fong1			
-丰	fong1			
 酆	fong1			
 沣	fong1			
 凤	fong1	2	#	2
@@ -1803,7 +1751,6 @@
 黻	fu5			
 复	fu5			
 腹	fu5			
-复	fu5			
 蝮	fu5			
 覆	fu5			
 馥	fu5			
@@ -1871,10 +1818,8 @@
 橄	gan3			
 擀	gan3			
 秆	gan3		#	2
-秆	gan3		#	2
 拣	gan3	2	#	2
 淦	gan4			
-干	gan4			
 干	gan4			
 灨	gan4			
 赣	gan4		#	2
@@ -1892,7 +1837,6 @@
 港	gang3			
 杠	gang4			
 筻	gang4			
-杠	gang4			
 戆	gang4	2		
 皋	gao1			
 高	gao1			
@@ -1953,16 +1897,12 @@
 哏	gen3		#	2
 整	gen3	2	#	2
 亘	gen4			
-亘	gen4			
-搄	gen4			
 搄	gen4			
 更	gen4		#	2
 哥	geo1			
 歌	geo1			
 哿	geo1			
 舸	geo3			
-个	geo4			
-个	geo4			
 个	geo4			
 胳	geo5			
 袼	geo5			
@@ -1985,7 +1925,6 @@
 搿	go1			
 锅	go1			
 虢	go1			
-椁	go1			
 椁	go1			
 呙	go1			
 埚	go1			
@@ -2025,7 +1964,6 @@
 缑	gou1			
 篝	gou1			
 鞲	gou1			
-鞲	gou1			
 笱	gou1			
 尻	gou1			
 佝	gou1		#	2
@@ -2035,7 +1973,6 @@
 狗	gou3			
 枸	gou3			
 垢	gou4			
-够	gou4			
 够	gou4			
 遘	gou4			
 彀	gou4			
@@ -2077,7 +2014,6 @@
 崮	gu4			
 雇	gu4			
 痼	gu4			
-雇	gu4			
 锢	gu4			
 鲴	gu4			
 顾	gu4			
@@ -2088,7 +2024,6 @@
 汩	gu5			
 骨	gu5			
 榖	gu5			
-谷	gu5			
 鹘	gu5		#	2
 瓜	gua1			
 胍	gua1			
@@ -2098,7 +2033,6 @@
 噶	gua3		#	3
 卦	gua4			
 挂	gua4			
-挂	gua4			
 罣	gua4			
 褂	gua4			
 诖	gua4		#	2
@@ -2106,7 +2040,6 @@
 鸹	gua5			
 聒	gua5			
 姡	gua5			
-刮	gua5			
 栝	gua5			
 乖	guai1			
 拐	guai3			
@@ -2232,7 +2165,6 @@
 韩	han2			
 颔	han2			
 咸	han2			
-咸	han2			
 咸	xian2			
 啣	han2			
 衔	han2		#	2
@@ -2291,7 +2223,6 @@
 壕	hao2			
 嚎	hao2			
 濠	hao2			
-蚝	hao2			
 籇	hao2			
 譹	hao2			
 郝	hao2			
@@ -2355,7 +2286,6 @@
 痕	hen2			
 鞎	hen2			
 恒	hen2			
-恒	hen2			
 姮	hen2			
 珩	hen2			
 胻	hen2			
@@ -2406,7 +2336,6 @@
 灬	ho3			
 伙	ho3			
 钬	ho3			
-伙	ho3			
 货	ho4			
 祸	ho4			
 嚯	ho4			
@@ -2518,7 +2447,6 @@
 糇	hou2			
 翭	hou2			
 𬭤	hou2			
-糇	hou2			
 鯸	hou2			
 鄇	hou2			
 堠	hou2			
@@ -2531,7 +2459,6 @@
 厚	hou4			
 垕	hou4			
 逅	hou4			
-后	hou4			
 洉	hou4			
 候	hou4			
 鲘	hou4			
@@ -2553,11 +2480,8 @@
 瑚	hu2			
 煳	hu2			
 蝴	hu2			
-胡	hu2			
 糊	hu2			
 醐	hu2			
-糊	hu2			
-胡	hu2			
 鹕	hu2			
 虍	hu3			
 虎	hu3			
@@ -2594,7 +2518,6 @@
 哗	hua2			
 铧	hua2			
 骅	hua2			
-哗	hua2			
 划	hua2		#	2
 化	hua4			
 画	hua4			
@@ -2734,13 +2657,10 @@
 囘	hui2			
 回	hui2			
 茴	hui2			
-回	hui2			
 洄	hui2			
 蛔	hui2			
 珲	hui2	2	#	2
 悔	hui3			
-毁	hui3			
-毁	hui3			
 毁	hui3			
 哕	hui3	2	#	4
 虺	hui4			
@@ -2751,8 +2671,6 @@
 喙	hui4			
 汇	hui4			
 贿	hui4			
-汇	hui4			
-汇	hui4			
 诲	hui4			
 慧	hui4			
 蕙	hui4			
@@ -2800,11 +2718,9 @@
 叽	ji1			
 稽	ji1			
 畿	ji1			
-机	ji1			
 矶	ji1			
 鸡	ji1			
 讥	ji1			
-饥	ji1			
 羁	ji1			
 几	ji1			
 几	ji1		#	2
@@ -2907,7 +2823,6 @@
 解	jiai3	90%	#	4
 玠	jiai4			
 届	jiai4			
-届	jiai4			
 界	jiai4			
 疥	jiai4			
 蚧	jiai4			
@@ -2921,7 +2836,6 @@
 解	jiai4	2	#解元	4
 奸	jian1			
 肩	jian1			
-奸	jian1			
 兼	jian1			
 菅	jian1			
 坚	jian1			
@@ -2942,7 +2856,6 @@
 趼	jian3			
 减	jian3			
 堿	jian3			
-减	jian3			
 碱	jian3			
 捡	jian3			
 检	jian3			
@@ -2952,7 +2865,6 @@
 茧	jian3			
 睑	jian3			
 简	jian3			
-碱	jian3			
 锏	jian3			
 囝	jian3		#	2
 拣	jian3		#	2
@@ -2972,7 +2884,6 @@
 谏	jian4			
 鞬	jian4			
 鉴	jian4			
-鉴	jian4			
 犍	jian4		#	2
 舰	jian4		#	2
 槛	jian4	2	#	2
@@ -2981,11 +2892,8 @@
 茳	jiang1			
 姜	jiang1			
 僵	jiang1			
-姜	jiang1			
-僵	jiang1			
 礓	jiang1			
 疆	jiang1			
-缰	jiang1			
 缰	jiang1			
 耩	jiang3			
 讲	jiang3			
@@ -3010,7 +2918,6 @@
 教	jiao1	2	#	2
 跤	jiao1		#	2
 胶	jiao1		#	2
-教	jiao1	2	#	2
 佼	jiao3			
 狡	jiao3			
 皎	jiao3			
@@ -3028,7 +2935,6 @@
 轿	jiao4			
 教	jiao4		#	2
 叫	jiao4		#	2
-教	jiao4		#	2
 酵	jiao4		#	2
 藠	jiao4		#	2
 峤	jiao4		#	2
@@ -3044,7 +2950,6 @@
 拮	jie5			
 桀	jie5			
 讦	jie5			
-杰	jie5			
 结	jie5			
 碣	jie5			
 竭	jie5			
@@ -3114,7 +3019,6 @@
 𬬱	jin3			
 廑	jin3		#	2
 卺	jin4			
-卺	jin4			
 嫤	jin4			
 伒	jin4			
 劤	jin4			
@@ -3141,7 +3045,6 @@
 獍	jin4			
 镜	jin4			
 竞	jin4			
-脚	jio5			
 脚	jio5			
 玨	jio5			
 珏	jio5			
@@ -3170,7 +3073,6 @@
 柩	jiu4			
 桕	jiu4			
 救	jiu4			
-厩	jiu4			
 厩	jiu4			
 舅	jiu4			
 旧	jiu4			
@@ -3261,7 +3163,6 @@
 莒	ju3			
 矩	ju3			
 蒟	ju3			
-矩	ju3			
 踽	ju3			
 举	ju3			
 榉	ju3			
@@ -3273,7 +3174,6 @@
 距	ju4			
 讵	ju4			
 犋	ju4			
-巨	ju4			
 剧	ju4			
 据	ju4			
 窭	ju4			
@@ -3288,7 +3188,6 @@
 挶	ju5			
 掬	ju5			
 鞠	ju5			
-局	ju5			
 局	ju5			
 菊	ju5			
 焗	ju5			
@@ -3320,7 +3219,6 @@
 孓	jue5			
 决	jue5			
 抉	jue5			
-决	jue5			
 玦	jue5			
 掘	jue5			
 崛	jue5			
@@ -3397,7 +3295,6 @@
 糠	kang1			
 扛	kang2		#	2
 㔶	kang3			
-
 亢	kang4			
 伉	kang4			
 抗	kang4			
@@ -3415,7 +3312,6 @@
 靠	kao4			
 克	ke5			
 刻	ke5			
-克	ke5			
 恪	ke5			
 客	ke5			
 氪	ke5			
@@ -3563,7 +3459,6 @@
 诳	kuang2			
 𫛭	kuang2			
 况	kuang2			
-况	kuang2			
 贶	kuang2			
 夼	kuang4			
 邝	kuang4			
@@ -3607,7 +3502,6 @@
 匮	kui4		#	2
 坤	kun1			
 昆	kun1			
-昆	kun1			
 堃	kun1			
 琨	kun1			
 焜	kun1			
@@ -3617,9 +3511,7 @@
 鲲	kun1			
 捆	kun3			
 悃	kun3			
-捆	kun3			
 阃	kun3			
-困	kun4			
 困	kun4			
 垃	la1			
 拉	la1			
@@ -3641,7 +3533,6 @@
 镴	la5			
 鞡	la5			
 拏	la5			
-呐	la5			
 呐	la5			
 肭	la5			
 衲	la5			
@@ -3796,12 +3687,10 @@
 黎	li2			
 罹	li2			
 缡	li2			
-厘	li2			
 藜	li2			
 离	li2			
 黧	li2			
 蓠	li2			
-漓	li2			
 蠡	li2			
 篱	li2			
 骊	li2			
@@ -3812,8 +3701,6 @@
 里	li3			
 娌	li3			
 理	li3			
-里	li3			
-里	li3			
 锂	li3			
 澧	li3			
 礼	li3			
@@ -3857,10 +3744,6 @@
 粒	li5			
 历	li5			
 傈	li5			
-莅	li5			
-栗	li5			
-历	li5			
-历	li5			
 篥	li5			
 坜	li5			
 苈	li5			
@@ -3904,17 +3787,14 @@
 炼	lian4			
 练	lian4			
 殓	lian4			
-炼	lian4			
 链	lian4			
 恋	lian4			
 良	liang2			
-凉	liang2			
 凉	liang2			
 梁	liang2			
 椋	liang2			
 粱	liang2			
 墚	liang2			
-梁	liang2			
 粮	liang2			
 莨	liang2		#	2
 两	liang3			
@@ -4002,7 +3882,6 @@
 崚	lin2			
 翎	lin2			
 羚	lin2			
-凌	lin2			
 祾	lin2			
 零	lin2			
 铃	lin2			
@@ -4053,7 +3932,6 @@
 鎏	liu2			
 骝	liu2			
 锍	liu2			
-
 榴	liu3			
 柳	liu3			
 绺	liu3			
@@ -4167,7 +4045,6 @@
 撸	lu3			
 卤	lu3			
 虏	lu3			
-卤	lu3			
 鲁	lu3			
 掳	lu3			
 努	lu3			
@@ -4230,7 +4107,6 @@
 儡	lui4			
 垒	lui4			
 泪	lui4			
-泪	lui4			
 擂	lui4			
 类	lui4			
 内	lui4			
@@ -4238,7 +4114,6 @@
 累	lui4		#	3
 仑	lun2			
 伦	lun2			
-仑	lun2			
 囵	lun2			
 沦	lun2			
 轮	lun2			
@@ -4324,12 +4199,10 @@
 漭	mang3			
 蟒	mang3			
 猫	mao1			
-猫	mao1			
 牦	mao2			
 毛	mao2			
 矛	mao2			
 茅	mao2			
-牦	mao2			
 旄	mao2			
 髦	mao2			
 蝥	mao2			
@@ -4353,7 +4226,6 @@
 瑁	mao4			
 貌	mao4			
 懋	mao4			
-脉	me5			
 脉	me5			
 麦	me5			
 貊	me5			
@@ -4410,11 +4282,9 @@
 猕	mi2			
 蘼	mi2			
 芈	mi2			
-芈	mi2			
 弭	mi2			
 脒	mi2			
 敉	mi2			
-弥	mi2			
 冖	mi2			
 祢	mi2	2	#	2
 靡	mi3			
@@ -4427,11 +4297,9 @@
 幂	mi5			
 嘧	mi5			
 蜜	mi5			
-幂	mi5			
 谧	mi5			
 糸	mi5		#	2
 泌	mi5		#	2
-秘	mi5		#	2
 秘	mi5		#	2
 眠	mian2			
 棉	mian2			
@@ -4447,11 +4315,8 @@
 湎	mian3			
 腼	mian3			
 缅	mian3			
-腼	mian3			
 黾	mian3		#	2
 渑	mian3	2	#	2
-面	mian4			
-面	mian4			
 面	mian4			
 喵	miao1			
 苗	miao2			
@@ -4475,7 +4340,6 @@
 蔑	mie5			
 篾	mie5			
 蠛	mie5			
-蔑	mie5			
 抿	min1	2	#	2
 泯	min1	2	#	2
 盟	min2			
@@ -4554,12 +4418,9 @@
 瞢	mong2			
 幪	mong2			
 獴	mong2			
-蒙	mong2			
-蒙	mong2			
 檬	mong2			
 朦	mong2			
 礞	mong2			
-蒙	mong2			
 艨	mong2			
 蠓	mong2			
 氓	mong2	2	#	2
@@ -4675,7 +4536,6 @@
 辗	nian3		#	2
 廿	nian4			
 念	nian4			
-念	nian4			
 砚	nian4			
 验	nian4			
 嬢	niang1			
@@ -4685,7 +4545,6 @@
 醸	niang4			
 酿	niang4			
 鸟	niao3			
-袅	niao3			
 袅	niao3			
 茑	niao3			
 嬲	niao3			
@@ -4918,7 +4777,6 @@
 癖	pi5			
 辟	pi5			
 僻	pi5			
-辟	pi5			
 劈	pi5		#	2
 疋	pi5		#	2
 啪	pia1		#	2
@@ -5025,7 +4883,6 @@
 萍	pin2			
 评	pin2			
 鲆	pin2			
-苹	pin2			
 匕	pin2	2	#	2
 冯	pin2	2	#	2
 屏	pin2		#	2
@@ -5117,7 +4974,6 @@
 擈	pu5			
 仆	pu5			
 菐	pu5			
-仆	pu5			
 墣	pu5			
 獛	pu5			
 璞	pu5			
@@ -5180,7 +5036,6 @@
 桤	qi3			
 起	qi3			
 岂	qi3			
-启	qi3			
 启	qi3			
 杞	qi3	2	#	2
 綮	qi3	2	#	2
@@ -5424,7 +5279,6 @@
 儝	qun2			
 琼	qun2			
 裙	qun2			
-群	qun2			
 群	qun2			
 麇	qun2		#	2
 檾	qun3			
@@ -5757,7 +5611,6 @@
 棯	sen1			
 森	sen1			
 椮	sen1			
-椮	sen1			
 襂	sen1			
 𥮾	sen1			
 僧	sen1			
@@ -5836,7 +5689,6 @@
 杀	sha5			
 蔱	sha5			
 榝	sha5			
-榝	sha5			
 铩	sha5			
 唼	sha5			
 帹	sha5			
@@ -5895,7 +5747,6 @@
 常	shang2			
 尝	shang2			
 嫦	shang2			
-尝	shang2			
 偿	shang2			
 晌	shang3			
 赏	shang3			
@@ -5996,8 +5847,6 @@
 𫓵	shen1			
 瘆	shen1			
 升	shen1			
-升	shen1			
-升	shen1			
 声	shen1			
 绳	shun2			
 㡎	shen1		#	2
@@ -6041,7 +5890,6 @@
 盛	shen4		#	2
 尸	shi1			
 施	shi1			
-尸	shi1			
 诗	shi1			
 筮	shi1			
 豉	shi2			
@@ -6077,14 +5925,12 @@
 势	shi4			
 嗜	shi4			
 铈	shi4			
-弑	shi4			
 饰	shi4			
 试	shi4			
 誓	shi4			
 噬	shi4			
 谥	shi4			
 失	shi5			
-湿	shi5			
 湿	shi5			
 十	shi5			
 石	shi5			
@@ -6230,9 +6076,7 @@
 瑞	shui4			
 閖	shui4			
 捝	shui4			
-捝	shui4			
 帨	shui4			
-涚	shui4			
 涚	shui4			
 祱	shui4			
 税	shui4			
@@ -6240,7 +6084,6 @@
 睡	shui4			
 唇	shun2			
 纯	shun2			
-唇	shun2			
 淳	shun2			
 醇	shun2			
 鹑	shun2			
@@ -6256,7 +6099,6 @@
 司	si1			
 私	si1			
 思	si1			
-私	si1			
 斯	si1			
 丝	si1			
 撕	si1			
@@ -6385,7 +6227,6 @@
 櫹	siu1			
 俢	siu1			
 修	siu1			
-修	siu1			
 羞	siu1			
 臹	siu1			
 樇	siu1			
@@ -6445,7 +6286,6 @@
 莎	so1	2	#	2
 苏	so1	2	#	2
 娑	so1		#	2
-挲	so1	2	#	2
 蓑	so1		#	2
 献	so1	2	#	2
 所	so3			
@@ -6483,7 +6323,6 @@
 濍	song1			
 憽	song1			
 檧	song1			
-松	song1			
 傱	song1			
 摗	song1			
 吅	song1			
@@ -6506,7 +6345,6 @@
 诵	song4			
 鎹	song4			
 𩠌	song4			
-搜	sou1			
 搜	sou1			
 嗖	sou1			
 溲	sou1			
@@ -6603,7 +6441,6 @@
 需	sv1			
 魆	sv1			
 谞	sv1			
-须	sv1			
 虽	sv1	2	#	2
 蓑	sv1		#	2
 徐	sv2			
@@ -6625,7 +6462,6 @@
 瑄	svan1			
 琁	svan2			
 漩	svan2			
-璇	svan2			
 璇	svan2			
 旋	svan2		#	2
 藓	svan3			
@@ -6742,12 +6578,8 @@
 苔	tai2			
 炱	tai2			
 跆	tai2			
-台	tai2			
-台	tai2			
 鲐	tai2			
 擡	tai2			
-苔	tai2			
-台	tai2			
 骀	tai2		#	2
 太	tai4			
 汰	tai4			
@@ -6768,7 +6600,6 @@
 坛	tan2			
 昙	tan2			
 檀	tan2			
-坛	tan2			
 谭	tan2			
 弹	tan2		#	2
 覃	tan2		#	2
@@ -6781,7 +6612,6 @@
 袒	tan3		#	2
 炭	tan4			
 碳	tan4			
-叹	tan4			
 叹	tan4			
 探	tan4	2	#	2
 汤	tang1			
@@ -6799,7 +6629,6 @@
 樘	tang2			
 膛	tang2			
 螗	tang2			
-糖	tang2			
 糖	tang2			
 螳	tang2			
 镗	tang2			
@@ -6962,7 +6791,6 @@
 唾	to4			
 乇	to5			
 托	to5			
-托	to5			
 脱	to5			
 橐	to5			
 柝	to5			
@@ -6979,7 +6807,6 @@
 茼	tong2			
 桐	tong2			
 砼	tong2			
-同	tong2			
 童	tong2			
 酮	tong2			
 铜	tong2			
@@ -7005,7 +6832,6 @@
 途	tu2			
 涂	tu2			
 屠	tu2			
-涂	tu2			
 酴	tu2			
 图	tu2			
 土	tu3			
@@ -7018,7 +6844,6 @@
 秃	tu5			
 突	tu5			
 湍	tuan1		#	2
-团	tuan2			
 团	tuan2			
 抟	tuan2		#	2
 疃	tuan3			
@@ -7077,7 +6902,6 @@
 琬	wan3			
 碗	wan3			
 畹	wan3			
-挽	wan3			
 绾	wan3			
 腕	wan3			
 婠	wan3		#	2
@@ -7126,11 +6950,9 @@
 违	wei2			
 维	wei2			
 涠	wei2			
-沩	wei2			
 闱	wei2			
 潍	wei2			
 韪	wei2			
-为	wei2		#	2
 为	wei2		#	2
 隈	wei3			
 韦	wei3			
@@ -7151,7 +6973,6 @@
 喂	wei3	2	#	3
 瓗	wei4			
 伪	wei4			
-伪	wei4			
 鲔	wei4			
 位	wei4			
 味	wei4			
@@ -7163,7 +6984,6 @@
 卫	wei4			
 谓	wei4			
 魏	wei4			
-为	wei4	2	#	2
 为	wei4	2	#	2
 未	wei4		#	2
 尉	wei4		#	2
@@ -7219,7 +7039,6 @@
 诬	wu1			
 钨	wu1			
 坞	wu1			
-污	wu1			
 汚	wu1			
 呜	wu1		#	2
 毋	wu2			
@@ -7300,7 +7119,6 @@
 玺	xi3			
 囍	xi3			
 系	xi4			
-系	xi4			
 禊	xi4			
 戏	xi4			
 屭	xi4			
@@ -7344,7 +7162,6 @@
 祆	xian1			
 锨	xian1			
 闲	xian2			
-闲	xian2			
 嫌	xian2			
 贤	xian2			
 娴	xian2			
@@ -7371,7 +7188,6 @@
 飨	xiang3			
 响	xiang3			
 向	xiang4			
-向	xiang4			
 项	xiang4		#	2
 枵	xiao1			
 枭	xiao1			
@@ -7388,7 +7204,6 @@
 效	xiao4			
 校	xiao4		#	2
 歇	xie5			
-蝎	xie5			
 蝎	xie5			
 协	xie5			
 揳	xie5			
@@ -7418,7 +7233,6 @@
 衅	xin4			
 幸	xin4			
 荇	xin4			
-幸	xin4			
 悻	xin4			
 兴	xin4	2	#	2
 学	xio5			
@@ -7431,7 +7245,6 @@
 凶	xiong1			
 兄	xiong1			
 芎	xiong1			
-凶	xiong1			
 匈	xiong1			
 忷	xiong1			
 哅	xiong1			
@@ -7510,7 +7323,6 @@
 薰	xun1			
 獯	xun1			
 曛	xun1			
-熏	xun1			
 醺	xun1			
 窨	xun1	2	#	2
 夐	xun4			
@@ -7553,7 +7365,6 @@
 烟	yan1			
 崦	yan1			
 鄢	yan1			
-烟	yan1			
 嫣	yan1			
 腌	yan1			
 阉	yan1			
@@ -7610,7 +7421,6 @@
 赝	yan4			
 餍	yan4			
 艳	yan4			
-艳	yan4			
 央	yang1			
 泱	yang1			
 殃	yang1			
@@ -7662,7 +7472,6 @@
 瑶	yao2			
 峣	yao2			
 窑	yao2			
-肴	yao2			
 谣	yao2			
 鳐	yao2			
 窈	yao2			
@@ -7873,12 +7682,10 @@
 应	yin4		#	2
 硸	yo5			
 药	yo5			
-药	yo5			
 钥	yo5			
 唷	yo5			
 哟	yo5			
 约	yo5			
-岳	yo5			
 岳	yo5			
 龠	yo5			
 瀹	yo5			
@@ -7913,7 +7720,6 @@
 勇	yong3			
 涌	yong3			
 恿	yong3			
-涌	yong3			
 蛹	yong3			
 踊	yong3			
 佣	yong4			
@@ -7935,7 +7741,6 @@
 邮	you2			
 蚰	you2			
 犹	you2			
-游	you2			
 游	you2			
 铀	you2			
 猷	you2			
@@ -7970,7 +7775,6 @@
 吁	yu1			
 于	yu2			
 纡	yu2			
-于	yu2			
 余	yu2			
 妤	yu2			
 盂	yu2			
@@ -7997,7 +7801,6 @@
 渔	yu2			
 窬	yu2			
 蝓	yu2			
-余	yu2			
 谀	yu2			
 觎	yu2			
 玙	yu2			
@@ -8041,8 +7844,6 @@
 谕	yu4			
 燠	yu4			
 滪	yu4			
-御	yu4			
-愈	yu4			
 誉	yu4			
 慰	yu4	2	#	2
 喂	yu4	2	#	3
@@ -8064,12 +7865,10 @@
 蜮	yu5			
 毓	yu5			
 狱	yu5			
-欲	yu5			
 阈	yu5			
 鹆	yu5			
 鬻	yu5			
 鹬	yu5			
-郁	yu5			
 灪	yu5			
 尉	yu5	2	#	2
 箢	yuan1			
@@ -8108,7 +7907,6 @@
 苑	yuan4			
 怨	yuan4			
 愿	yuan4			
-愿	yuan4			
 远	yuan4	2	#	2
 院	yuan4		#	2
 曰	yue1	2	#	2
@@ -8146,7 +7944,6 @@
 昀	yun2			
 耘	yun2			
 纭	yun2			
-云	yun2			
 鋆	yun2			
 筠	yun2		#	2
 荥	yun2		#	2
@@ -8162,7 +7959,6 @@
 殒	yun3			
 咏	yun4			
 泳	yun4			
-咏	yun4			
 郓	yun4			
 恽	yun4			
 运	yun4			
@@ -8216,7 +8012,6 @@
 洅	zai4			
 傤	zai4			
 酨	zai4			
-傤	zai4			
 载	zai4		#	2
 在	zai4		#	2
 湔	zan1			
@@ -8229,7 +8024,6 @@
 攒	zan3	2	#	2
 碊	zan4			
 暂	zan4			
-赞	zan4			
 赞	zan4			
 𪷽	zan4		#	2
 牫	zang1			
@@ -8262,11 +8056,9 @@
 璪	zao3			
 藻	zao3			
 皂	zao4			
-皂	zao4			
 灶	zao4			
 唕	zao4			
 唣	zao4			
-灶	zao4			
 糙	zao4	2	#	2
 侧	ze5			
 迮	ze5			
@@ -8275,7 +8067,6 @@
 舴	ze5			
 啧	ze5			
 帻	ze5			
-		
 赜	ze5			
 仄	ze5			
 昃	ze5			
@@ -8339,7 +8130,6 @@
 笮	zha4	2	#	3
 扎	zha5			
 哳	zha5			
-扎	zha5			
 劄	zha5			
 𠱞	zha5			
 札	zha5			
@@ -8366,7 +8156,6 @@
 閚	zhan1			
 詹	zhan1			
 薝	zhan1			
-沾	zhan1			
 噡	zhan1			
 嶦	zhan1			
 邅	zhan1			
@@ -8406,7 +8195,6 @@
 鹯	zhan4			
 琖	zhan4			
 醆	zhan4			
-占	zhan4			
 占	zhan4			
 桟	zhan4			
 站	zhan4			
@@ -8503,7 +8291,6 @@
 折	zhe5			
 哲	zhe5			
 喆	zhe5			
-折	zhe5			
 辄	zhe5			
 磔	zhe5			
 蛰	zhe5			
@@ -8517,7 +8304,6 @@
 真	zhen1			
 砧	zhen1			
 针	zhen1			
-真	zhen1			
 侦	zhen1			
 浈	zhen1			
 斟	zhen1			
@@ -8525,7 +8311,6 @@
 甄	zhen1			
 祯	zhen1			
 箴	zhen1			
-针	zhen1			
 畛	zhen1			
 诊	zhen1			
 征	zhen1			
@@ -8557,7 +8342,6 @@
 症	zhen4			
 证	zhen4			
 郑	zhen4			
-证	zhen4			
 振	zhen4		#	2
 震	zhen4	2	#	3
 之	zhi1			
@@ -8571,7 +8355,6 @@
 胝	zhi1			
 祗	zhi1			
 脂	zhi1			
-栀	zhi1			
 蜘	zhi1			
 只	zhi1	#	2	
 衹	zhi3			
@@ -8611,9 +8394,6 @@
 置	zhi4			
 雉	zhi4			
 稚	zhi4			
-制	zhi4			
-志	zhi4			
-致	zhi4			
 觯	zhi4			
 滞	zhi4	2	#	3
 汁	zhi5			
@@ -8629,7 +8409,6 @@
 摭	zhi5			
 絷	zhi5			
 职	zhi5			
-跖	zhi5			
 踯	zhi5			
 帙	zhi5			
 炙	zhi5			
@@ -8689,7 +8468,6 @@
 丵	zho5			
 烵	zho5			
 浞	zho5			
-棁	zho5			
 啅	zho5			
 娺	zho5			
 琢	zho5			
@@ -8743,15 +8521,12 @@
 终	zhong1			
 钟	zhong1			
 螽	zhong1			
-钟	zhong1			
 忪	zhong1	2	#	2
-冢	zhong3			
 冢	zhong3			
 肿	zhong3			
 踵	zhong3			
 仲	zhong3			
 种	zhong3		#	2
-众	zhong4			
 众	zhong4			
 种	zhong4	2	#	2
 重	zhong4		#	2
@@ -8760,7 +8535,6 @@
 周	zhou1			
 洲	zhou1			
 啁	zhou1			
-周	zhou1			
 赒	zhou1			
 诪	zhou1			
 绉	zhou1			
@@ -8773,7 +8547,6 @@
 咒	zhou4			
 宙	zhou4			
 胄	zhou4			
-胄	zhou4			
 纣	zhou4			
 酎	zhou4			
 昼	zhou4			
@@ -8785,12 +8558,10 @@
 洙	zhu1			
 珠	zhu1			
 株	zhu1			
-朱	zhu1			
 猪	zhu1			
 蛛	zhu1			
 诛	zhu1			
 铢	zhu1			
-猪	zhu1			
 诸	zhu1			
 潴	zhu1			
 橥	zhu1			
@@ -8806,7 +8577,6 @@
 宁	zhu4			
 伫	zhu4			
 住	zhu4			
-伫	zhu4			
 苎	zhu4			
 注	zhu4			
 柱	zhu4			
@@ -8814,7 +8584,6 @@
 著	zhu4			
 蛀	zhu4			
 贮	zhu4			
-注	zhu4			
 驻	zhu4			
 铸	zhu4			
 触	zhu5			
@@ -8834,7 +8603,6 @@
 祝	zhu5			
 筑	zhu5			
 箸	zhu5			
-筑	zhu5			
 咤	zhua1			
 揸	zhua1			
 抓	zhua1			
@@ -8930,7 +8698,6 @@
 肫	zhun1	2	#	2
 窀	zhun1		#	2
 准	zhun3			
-准	zhun3			
 孜	zi1			
 咨	zi1			
 姿	zi1			
@@ -8946,10 +8713,8 @@
 辎	zi1			
 髭	zi1			
 锱	zi1			
-咨	zi1			
 鲻	zi1			
 龇	zi1			
-眦	zi1			
 眦	zi1			
 觜	zi1			
 呲	zi1	2	#	2
@@ -8969,7 +8734,6 @@
 訾	zi3			
 滓	zi3			
 茈	zi3		#	2
-
 仔	zi3	90%	#	3
 自	zi4			
 字	zi4			
@@ -9047,7 +8811,6 @@
 阱	zin3		#	2
 锓	zin3		#	2
 晋	zin4			
-晋	zin4			
 进	zin4			
 祲	zin4			
 搢	zin4			
@@ -9103,7 +8866,6 @@
 综	zong1			
 踪	zong1			
 鬃	zong1			
-踪	zong1			
 枞	zong1		#	2
 总	zong3			
 偬	zong3		#	2
@@ -9167,7 +8929,6 @@
 聚	zv4			
 镌	zvan1			
 隽	zvan4		#	2
-隽	zvan4		#	2
 嗟	zve1		#	2
 绝	zve5			
 嚼	zve5	2	#	2
@@ -9181,7 +8942,6 @@
 焌	zvn4			
 畯	zvn4			
 竣	zvn4			
-俊	zvn4			
 馂	zvn4			
 懏	zvn4			
 寯	zvn4			
@@ -9227,12 +8987,9 @@
 脊	zyi5			
 迹	zyi5			
 寂	zyi5			
-迹	zyi5			
 绩	zyi5			
-迹	zyi5			
 鲫	zyi5			
 藉	zyi5	2	#	3
-麏	jun1			
 𫖳	jun1			
 暻	jun3			
 嵦	ai2			
@@ -9579,7 +9336,6 @@
 襮	bu5			
 犦	bu5			
 鼒	cai2			
-采	cai3			
 采	cai4			
 棌	cai4			
 湌	can1			
@@ -9946,7 +9702,6 @@
 倕	chui2			
 圌	chui2			
 篅	chui2			
-锤	chui2			
 桘	chui2			
 顀	chui2			
 輴	chun1			
@@ -9978,7 +9733,6 @@
 薋	ci2			
 垐	ci2			
 𫞚	ci2			
-鹚	ci2			
 礠	ci2			
 濨	ci2			
 漦	ci2			
@@ -10022,7 +9776,6 @@
 謒	ciang1			
 篬	ciang1			
 鸧	ciang1			
-墙	ciang2			
 蘠	ciang2			
 摤	ciang3			
 蹡	ciang4			
@@ -10190,7 +9943,6 @@
 踆	cvn1			
 夋	cvn1			
 𫜄	cvn2			
-凄	cyi1			
 鶈	cyi1			
 郪	cyi1			
 緀	cyi1			
@@ -10378,7 +10130,6 @@
 扂	dian4			
 驔	dian4			
 橝	dian4			
-淀	dian4			
 涏	dian4			
 塡	dian4			
 窴	dian4			
@@ -10459,7 +10210,6 @@
 媠	do4			
 刴	do4			
 挅	do4			
-敚	do5			
 敚	do5			
 莌	do5			
 痥	do5			
@@ -10706,7 +10456,6 @@
 嬔	fan4			
 汳	fan4			
 颿	fan4			
-泛	fan4			
 姂	fan4			
 汸	fang1			
 蚄	fang1			
@@ -10879,7 +10628,6 @@
 洑	fu5			
 箙	fu5			
 棴	fu5			
-复	fu5			
 畐	fu5			
 𫄢	fu5			
 栿	fu5			
@@ -10898,7 +10646,6 @@
 炥	fu5			
 嶏	fu5			
 乀	fu5			
-佛	fu5			
 豥	gai1			
 荄	gai1			
 郂	gai1			
@@ -11230,7 +10977,6 @@
 蚢	hang4			
 笐	hang4			
 夰	hao4			
-号	hao4			
 麧	he5			
 淈	he5			
 爀	he5			
@@ -11314,7 +11060,6 @@
 虖	hu2			
 萀	hu3			
 戸	hu4			
-户	hu4			
 楛	hu4			
 鄠	hu4			
 帍	hu4			
@@ -11523,7 +11268,6 @@
 鐖	ji1			
 僟	ji1			
 刏	ji1			
-鸡	ji1			
 枅	ji1			
 攲	ji3			
 妀	ji3			
@@ -12172,7 +11916,6 @@
 樆	li2			
 鵹	li2			
 褵	li2			
-离	li2			
 㛤	li2			
 攡	li2			
 黐	li2			
@@ -12271,10 +12014,8 @@
 秊	lian2			
 聮	lian2			
 翴	lian2			
-梿	lian2			
 薕	lian2			
 匳	lian2			
-帘	lian2			
 鬑	lian2			
 覝	lian2			
 熑	lian2			
@@ -12649,7 +12390,6 @@
 鮾	lui3			
 脮	lui3			
 瓃	lui4			
-垒	lui4			
 蘱	lui4			
 禷	lui4			
 頪	lui4			
@@ -12686,7 +12426,6 @@
 氀	lv2			
 鷜	lv2			
 𦝼	lv2			
-吕	lv3			
 祣	lv3			
 梠	lv3			
 儢	lv3			
@@ -12756,7 +12495,6 @@
 罞	mao2			
 鶜	mao2			
 媌	mao2			
-牦	mao2			
 枆	mao2			
 酕	mao2			
 堥	mao2			
@@ -13174,7 +12912,6 @@
 誧	pu3			
 悑	pu4			
 誧	pu4			
-扑	pu5			
 骲	pu5			
 昢	pu5			
 哱	pu5			
@@ -13214,7 +12951,6 @@
 禥	qi2			
 踑	qi2			
 畁	qi2			
-旗	qi2			
 刏	qi2			
 蚚	qi2			
 玂	qi2			
@@ -13227,10 +12963,8 @@
 棨	qi3			
 晵	qi3			
 闙	qi3			
-启	qi3			
 跂	qi4			
 蚑	qi4			
-弃	qi4			
 夡	qi4			
 蟿	qi4			
 唭	qi4			
@@ -13344,7 +13078,6 @@
 𬒈	qio5			
 硞	qio5			
 埆	qio5			
-却	qio5			
 躩	qio5			
 匑	qiong1			
 輁	qiong2			
@@ -13519,7 +13252,6 @@
 瓒	san4			
 穳	san4			
 噪	sao4			
-虱	se5			
 摵	se5			
 澁	se5			
 阠	sen1			
@@ -13616,7 +13348,6 @@
 翨	shi4			
 醏	shi4			
 眂	shi4			
-谥	shi4			
 貤	shi4			
 秲	shi4			
 忕	shi4			
@@ -13860,7 +13591,6 @@
 踈	su4			
 疎	su4			
 溯	su4			
-溯	su4			
 傃	su4			
 膆	su4			
 塐	su4			
@@ -13886,7 +13616,6 @@
 裻	su5			
 藚	su5			
 憟	su5			
-酸	suan1			
 愃	suan1			
 檈	suan2			
 蜁	suan2			
@@ -13936,7 +13665,6 @@
 揟	sv1			
 𦈡	sv1			
 𦈕	sv1			
-媭	sv1			
 蕦	sv1			
 隃	sv1			
 俆	sv2			
@@ -13975,7 +13703,6 @@
 鬄	syi5			
 焟	syi5			
 棤	syi5			
-席	syi5			
 緆	syi5			
 惁	syi5			
 鄎	syi5			
@@ -14031,7 +13758,6 @@
 橝	tan2			
 蟫	tan2			
 燂	tan2			
-坛	tan2			
 惔	tan2			
 倓	tan2			
 餤	tan2			
@@ -14373,7 +14099,6 @@
 朢	wang2			
 蚟	wang2			
 彺	wang2			
-网	wang3			
 棢	wang3			
 菵	wang3			
 𫍬	wang3			
@@ -14523,7 +14248,6 @@
 勜	wong3			
 塕	wong3			
 奣	wong3			
-瓮	wong4			
 罋	wong4			
 洿	wu1			
 釫	wu1			
@@ -14539,7 +14263,6 @@
 莁	wu2			
 璑	wu2			
 鷡	wu2			
-无	wu2			
 譕	wu2			
 𪢸	wu2			
 鹀	wu2			
@@ -14694,7 +14417,6 @@
 屳	xian1			
 馦	xian1			
 欦	xian1			
-娴	xian2			
 蛝	xian2			
 瞯	xian2			
 藖	xian2			
@@ -14761,7 +14483,6 @@
 缿	xiang4			
 衖	xiang4			
 珦	xiang4			
-向	xiang4			
 蚃	xiang4			
 萫	xiang4			
 膮	xiao1			
@@ -14936,7 +14657,6 @@
 娎	xue5			
 焎	xue5			
 勲	xun1			
-勋	xun1			
 焄	xun1			
 臐	xun1			
 褮	xun2			
@@ -15045,7 +14765,6 @@
 鬳	yan4			
 鴈	yan4			
 鳫	yan4			
-赝	yan4			
 偐	yan4			
 𫘫	yan4			
 𫛩	yan4			
@@ -15300,7 +15019,6 @@
 殔	yi4			
 勚	yi4			
 隶	yi4			
-异	yi4			
 潩	yi4			
 廙	yi4			
 鷾	yi4			
@@ -15500,7 +15218,6 @@
 嵱	yong2			
 槦	yong2			
 鰅	yong2			
-踊	yong3			
 慂	yong3			
 塎	yong3			
 悀	yong3			
@@ -15587,7 +15304,6 @@
 釪	yu2			
 骬	yu2			
 謣	yu2			
-逾	yu2			
 楰	yu2			
 隃	yu2			
 鄃	yu2			
@@ -15603,7 +15319,6 @@
 篽	yu3			
 籞	yu3			
 蘌	yu3			
-与	yu3			
 藇	yu3			
 麌	yu3			
 噳	yu3			
@@ -15754,12 +15469,10 @@
 縜	yun2			
 荺	yun2			
 畇	yun2			
-芸	yun2			
 妘	yun2			
 沄	yun2			
 筼	yun2			
 愪	yun2			
-沄	yun2			
 耺	yun2			
 橒	yun2			
 禜	yun2			
@@ -15784,7 +15497,6 @@
 贠	yun4			
 忶	yun4			
 鶤	yun4			
-韵	yun4			
 𦈉	yun4			
 缊	yun4			
 禜	yun4			
@@ -15794,7 +15506,6 @@
 諎	za5			
 迊	za5			
 噆	za5			
-灾	zai1			
 撍	zan1			
 鐕	zan1			
 昝	zan3			
@@ -15963,7 +15674,6 @@
 挋	zhen4			
 袗	zhen4			
 敶	zhen4			
-镇	zhen4			
 瑱	zhen4			
 塡	zhen4			
 鴊	zhen4			
@@ -16249,7 +15959,6 @@
 蔪	zian4			
 嚵	zian4			
 螹	zian4			
-荐	zian4			
 洊	zian4			
 臶	zian4			
 栫	zian4			
@@ -16346,12 +16055,10 @@
 猣	zong3			
 翪	zong3			
 偬	zong3			
-粽	zong4			
 偬	zong4			
 鯼	zong4			
 緵	zong4			
 𫓽	zong4			
-疭	zong4			
 郰	zou1			
 齱	zou1			
 緅	zou1			
@@ -16494,30 +16201,20 @@
 𫚥	xia1			
 𫚥	ha1			
 虾	ha2			
-虾	ha1			
 懈	xiai4			
 搅	jiao3			
-线	sian4			
-腭	eo5			
 坵	qiu1			
 塝	bang3			
-夸	kua1			
-霉	mei2			
 岺	lin3			
 栢	be5			
 墱	den1			
-曲	qu5			
-烟	yan1			
 櫈	den4			
 垇	ao4			
 棪	yan4			
 凃	tu2			
 廻	hui2			
-锈	siu4			
 艶	yan4			
 砃	dan1			
-钩	gou1			
-颜	yan2			
 鲇	nian2			
 粧	zhuang1			
 夀	shou4			
@@ -16525,7 +16222,6 @@
 徳	de5			
 舖	pu4			
 蔴	ma2			
-坛	tan2			
 氊	zhan1			
 鳄	eo5			
 酰	sian1			
@@ -16578,7 +16274,6 @@
 蔗	zha4			
 湔	zian1			
 虒	ci2			
-阶	jiai1
 𫘤	ai2
 呆	ai2
 绕	rao4
@@ -17042,7 +16737,6 @@
 匟	kang3◎盖	1000
 冚	kang3◎盖	1000
 汇	lui4◎旧时唯一读音，来自「类」	1000
-
 爱好	ai4 hao3	
 爱好	ai4 hao4	
 瑷珲	ai4 hui1	
@@ -17120,8 +16814,6 @@
 强脾气	jiang4 pi2 qi4	
 交行	jiao1 hang2	
 教会	jiao1 hui4	
-教会	jiao1 hui4	
-教会	jiao4 hui4	
 教会	jiao4 hui4	
 躬起	jiong1 qi3	
 九行	jiu3 hang2	
@@ -17265,7 +16957,6 @@
 靓妆	zin4 zhuang1	
 钻空子	zuan1 kong4 zi3	
 咀嚼	zv3 zve5	
-咀嚼	zv3 zve5	
 挤死	zyi1 si3	
 挤牙膏	zyi1 ya2 gao1	
 济南	zyi3 lan2	
@@ -17305,7 +16996,6 @@
 规重矩叠	gui1 chong2 ju3 die5	
 重整	chong2 zhen3	
 九重	jiu3 chong2	
-重逢	chong2 fong2	
 重温	chong2 wen1	
 重游	chong2 you2	
 枵腹重趼	xiao1 fu5 chong2 zian3	
@@ -17319,7 +17009,6 @@
 重拍	chong2 pe5	
 重门	chong2 men2	
 重明	chong2 min2	
-重逢	chong2 fong2	
 重赴鹿鸣	chong2 fu4 lu5 min2	
 重复	chong2 fu5	
 重戴	chong2 dai4	
@@ -17361,8 +17050,6 @@
 重舌	chong2 she5	
 重山	chong2 shan1	
 重申	chong2 shen1	
-重生	chong2 sen1	
-重奏	chong2 zou4	
 重足	chong2 zu5	
 重组	chong2 zu3	
 重作冯妇	chong2 zo5 fong2 fu4	
@@ -17512,13 +17199,11 @@
 扁舟	pian1 zhou1	
 变徵	bian4 zhi3	
 征羽	zhi3 yu3	
-征羽	zhi3 yu3	
 宫商角徵羽	gong1 shang1 jio5 zhi3 yu3	
 不帑	bu5 lu2	
 猜度	cai1 do5	
 裁度	cai2 do5	
 忖度	cun3 do5	
-参差	cen1 ci1	
 参差不齐	cen1 ci1 bu5 cyi2	
 参错	cen1 co4	
 参商	sen1 sang1	
@@ -17566,7 +17251,6 @@
 抽调	chou1 diao4	
 酬酢	chou2 zo5	
 绸缪	chou2 mou2	
-出差	chu5 chai1	
 出脱	cho5 to5	
 处处	chu4 chu4	
 处所	chu4 so3	
@@ -17585,7 +17269,6 @@
 大王	da4 wang2	
 带调	dai4 diao4	
 丹荑	dan1 yi2	
-单于	shan2 yu2	
 掸邦	shan4 bang1	
 弹弓	dan4 gong1	
 弹片	dan4 pian4	
@@ -17711,7 +17394,6 @@
 呱呱坠地	gu1 gu1 zhui4 di4	
 关严	guan1 an2	
 别严	pie5 an2	
-龟裂	jun1 lie5	
 龟兹	jiu1 zi1	
 寒颤	han2 zhan4	
 颤栗	zhan4 li5	
@@ -17792,7 +17474,6 @@
 数往知来	su3 wang2 zhi1 lai2	
 责数	ze5 su3	
 数数	su3 su4	
-倒数	dao4 su3	
 倒数	dao3 su4	
 胜数	shen1 su3	
 尽数	zin4 su3	
@@ -17815,14 +17496,12 @@
 率领	shuai4 lin3	
 率性	shuai4 sin4	
 率真	shuai4 zhen1	
-率真	shuai4 zhen1	
 率直	shuai4 zhi5	
 么儿	yao1 er2	
 螃蟹	pang2 hai3	
 频数	pin2 shu4	
 平上去入	pin2 shang3 qu4 ru5	
 剖开	po4 kai1	
-起哄	qi3 hong4	
 跒位	ka1 wei4	
 跒位	qia1 wei4	
 恰当	qia5 dang4	
@@ -17999,7 +17678,6 @@
 两片	liang3 pian3	
 聆乐	lin2 yo5	
 六乐	Dlu5 yo5	
-两只	liang3 zhi1	
 陇种	long3 zhong4	
 轮种	lun2 zhong4	
 芒种	mang2 zhong4	
@@ -18024,8 +17702,6 @@
 散乐	san3 yo5	
 韶乐	shao2 yo5	
 声乐	shen1 yo5	
-渑池	mian3 chi2	
-渑水	shen3 shui3	
 圣乐	shen4 yo5	
 十载	shi5 zai3	
 十只	shi5 zhi1	
@@ -18149,7 +17825,6 @@
 只身	zhi1 shen1	
 只字	zhi1 zi4	
 制礼	zhi4 li3	
-滞纳	chi5 la5	
 种德	zhong4 de5	
 种痘	zhong4 dou4	
 种谷	zhong4 gu5	
@@ -18185,7 +17860,6 @@
 欸乃	ai1 lai3	
 长相	zhang3 siang4	
 班长	ban1 zhang3	
-旅长	lv3 zhang3	
 不学长俊	bu5 xio5 zhang3 zvn4	
 不长一智	bu5 zhang3 yi5 zhi4	
 不长眼睛	bu5 zhang3 yan3 zin1	
@@ -18252,7 +17926,6 @@
 山长	shan1 zhang3	
 州长	zhou1 zhang3	
 市长	shi4 zhang3	
-师长	si1 zhang3	
 年均增长率	nian2 jun1 zen1 zhang3 lu5	
 年长	nian2 zhang3	
 干事长	gan4 si4 zhang3	
@@ -18277,7 +17950,6 @@
 教学相长	jiao4 xio5 siang4 zhang3	
 教育部长	jiao4 yu5 bu4 zhang3	
 教长	jiao4 zhang3	
-旅长	lv3 zhang3	
 族长	cu5 zhang3	
 晶粒生长	zin1 li5 sen1 zhang3	
 最年长	zui4 nian2 zhang3	
@@ -18298,12 +17970,9 @@
 消长	siao1 zhang3	
 滋长	zi1 zhang3	
 火长	ho3 zhang3	
-营长	yun2 zhang3	
 独阳则不长	du5 yang2 ze5 bu4 zhang3	
 王长	wang4 zhang3	
-班长	ban1 zhang3	
 理事长	li3 si4 zhang3	
-生长	sen1 zhang3	
 生长期	sen1 zhang3 qi2	
 生长激素	sen1 zhang3 ji1 su4	
 生长率	sen1 zhang3 lv4	
@@ -18389,32 +18058,23 @@
 长兄	zhang3 xiong1	
 长公主	zhang3 gong1 zhu3	
 长出	zhang3 chu1	
-长史	zhang3 shi3	
-长吏	zhang3 li4	
 长君	zhang3 jun1	
 长君之恶	zhang3 jun1 zhi1 eo5	
 长大成人	zhang3 da4 chen2 ren2	
 长姊	zhang3 zi3	
-长子	zhang3 zi3	
 长孙	zhang3 sun1	
 长孙媳	zhang3 sun1 xi2	
 长孙无忌	zhang3 sun1 wu2 ji4	
-长官	zhang3 guan1	
 长尾巴	zhang3 wei3 ba5	
 长幼	zhang3 you4	
 长幼有序	zhang3 you4 you3 xu4	
 长得	zhang3 de5	
 长成	zhang3 chen2	
-长房	zhang3 fang2	
 长掌义县龙	chang2 zhang3 ni4 xian4 long2	
 长机	zhang3 ji1	
 长满	zhang3 man3	
-长男	zhang3 lan2	
-长相	zhang3 siang4	
-长老	zhang3 lao3	
 长老教会	zhang3 lao3 jiao4 hui4	
 长老会	zhang3 lao3 hui4	
-长者	zhang3 zhe3	
 长脾气	zhang3 pi2 qi4	
 长亲	zhang3 cin1	
 长赘疣	zhang3 zhui4 you2	
@@ -18442,14 +18102,10 @@
 凝起	nin4 qi3	
 重回	chong2 hui2	
 一重	yi5 chong2	
-两重	liang3 chong2	
-三重	san1 chong2	
-四重	si4 chong2	
 调遣	diao4 qian3	
 调迁	diao4 qian1	
 调钱	diao3 cian2	
 调调	diao4 diao	
-三重	san1 chong2	
 三重埔	san1 chong2 pu3	
 三重奏	san1 chong2 zou4	
 三重市	san1 chong2 shi4	
@@ -18457,11 +18113,9 @@
 三重门	san1 chong2 men2	
 久别重逢	jiu3 bie2 chong2 fong2	
 九九重阳	jiu3 jiu3 chong2 yang2	
-九重	jiu3 chong2	
 九重天	jiu3 chong2 tian1	
 九重葛	jiu3 chong2 geo5	
 九重霄	jiu3 chong2 siao1	
-二重	er4 chong2	
 二重下标	er4 chong2 xia4 biao1	
 二重分类表	er4 chong2 fen1 lui4 biao3	
 二重唱	er4 chong2 chang4	
@@ -18477,7 +18131,6 @@
 列鼎重裀	lie4 din3 chong2 yin1	
 动词重叠	dong4 ci2 chong2 die5	
 卷土重来	juan3 tu3 chong2 lai2	
-古井重波	gu3 zin3 chong2 bo1	
 四重奏	si4 chong2 zou4	
 土地重划	tu3 di4 chong2 hua4	
 坠欢重拾	zhui4 huan1 chong2 shi5	
@@ -18495,11 +18148,9 @@
 心事重重	sin1 si4 chong2 chong2	
 戴凭重席	dai4 pin2 chong2 xi2	
 手足重茧	shou3 zu2 chong2 jian3	
-卷土重来	juan3 tu3 chong2 lai2	
 卷甲重来	juan3 jia3 chong2 lai2	
 故伎重演	gu4 ji4 chong2 yan3	
 故地重游	gu4 di4 chong2 you2	
-故技重施	gu4 ji4 chong2 shi1	
 断钗重合	duan4 chai1 chong2 heo5	
 日月重光	ri5 yue5 chong2 guang1	
 昏镜重明	hun1 jin4 chong2 min2	
@@ -18512,7 +18163,6 @@
 浴火重生	yu5 ho3 chong2 shen1	
 深居九重	shen1 ju1 jiu3 chong2	
 申重	shen1 chong2	
-叠矩重规	die5 ju3 chong2 gui1	
 百舍重茧	bai3 she4 chong2 jian3	
 百舍重趼	bai3 she4 chong2 jian3	
 破镜重合	po4 jin4 chong2 heo5	
@@ -18526,75 +18176,44 @@
 旧梦重温	jiu4 mong4 chong2 wen1	
 旧景重现	jiu4 jin3 chong2 xian4	
 旧调重弹	jiu4 diao4 chong2 tan2	
-万重	wan4 chong2	
 蒸气重整	zhen1 qi4 chong2 zhen3	
 覆辙重蹈	fu5 zhe5 chong2 dao4	
-规重矩叠	gui1 chong2 ju3 die5	
 资产重估	zi1 chan3 chong2 gu1	
 农地重划	long2 di4 chong2 hua4	
 远渡重洋	yuan3 du4 chong2 yang2	
 重	chong2	
-重三	chong2 san1	
 重三叠四	chong2 san1 die5 si4	
-重世	chong2 shi4	
-重九	chong2 jiu3	
 重九登高	chong2 jiu3 den1 gao1	
 重五	chong2 wu3	
-重估	chong2 gu3	
 重估后	chong2 gu3 hou4	
 重作冯妇	chong2 zuo4 fong2 fu4	
 重侍下	chong2 si4 xia4	
 重修	chong2 siu1	
 重修旧好	chong2 siu1 jiu4 hao3	
-重光	chong2 guang1	
 重光累洽	chong2 guang1 lui3 qia5	
 重出	chong2 chu1	
-重划	chong2 hua4	
-重午	chong2 wu3	
-重印	chong2 yin4	
-重卵	chong2 luan3	
 重又	chong2 you4	
-重合	chong2 heo5	
-重唱	chong2 chang4	
 重启	chong2 qi3	
-重回	chong2 hui2	
-重围	chong2 wei2	
 重塑	chong2 su4	
-重壁	chong2 bi5	
-重奏	chong2 zou4	
 重婚	chong2 hun1	
-重孙	chong2 sun1	
 重孙女	chong2 sun1 nv3	
 重孙媳	chong2 sun1 xi5	
 重定向	chong2 din4 xiang4	
 重审	chong2 shen3	
-重屋	chong2 wu5	
-重山	chong2 shan1	
 重峦叠嶂	chong2 luan2 die5 zhang4	
 重岩叠嶂	chong2 yan2 die5 zhang4	
 重帏	chong2 wei2	
-重建	chong2 jian4	
-重张	chong2 zhang1	
-重弹	chong2 tan2	
 重影	chong2 yin3	
-重庆	chong2 qin4	
 重庆大学	chong2 qin4 da4 xio5	
-重庆市	chong2 qin4 shi4	
 重庆科技学院	chong2 qin4 ko1 ji4 xio5 yuan4	
-重拍	chong2 pe5	
 重拾旧欢	chong2 shi5 jiu4 huan1	
-重振	chong2 zhen3	
 重振旗鼓	chong2 zhen3 qi2 gu3	
 重振雄风	chong2 zhen3 xiong2 fong1	
 重提	chong2 ti2	
 重提旧事	chong2 ti2 jiu4 si4	
 重插	chong2 cha5	
-重播	chong2 bo1	
-重操旧业	chong2 cao1 jiu4 nie5	
-重整	chong2 zhen3	
 重整人	chong2 zhen3 ren2	
 重整旗鼓	chong2 zhen3 qi2 gu3	
-重新	chong2 sin1	
 重新做人	chong2 sin1 zu4 ren2	
 重新加热	chong2 sin1 jia1 re4	
 重新启动	chong2 sin1 qi3 dong4	
@@ -18605,116 +18224,76 @@
 重新造林	chong2 sin1 cao4 lin2	
 重新开始	chong2 sin1 kai1 shi3	
 重新开机	chong2 sin1 kai1 ji1	
-重明	chong2 min2	
 重映	chong2 yin4	
 重查	chong2 cha2	
-重根	chong2 gen1	
-重楼	chong2 lou2	
 重样	chong2 yang4	
 重檐	chong2 yuan2	
 重正化	chong2 zhen4 hua4	
 重历旧游	chong2 li5 jiu4 you2	
 重沓	chong2 ta5	
-重泉	chong2 cvan2	
 重洋	chong2 yang2	
-重渊	chong2 yuan1	
 重溟	chong2 min2	
-重温	chong2 wen1	
 重温旧梦	chong2 wen1 jiu4 men4	
 重温旧业	chong2 wen1 jiu4 nie5	
-重演	chong2 yan3	
-重熙	chong2 xi1	
 重熙累洽	chong2 xi1 lui3 qia5	
-重版	chong2 ban3	
 重获	chong2 hue5	
-重现	chong2 xian4	
 重现江湖	chong2 xian4 jiang1 hu2	
 重环纹	chong2 huan2 wen2	
 重瓣	chong2 ban4	
 重瓣胃	chong2 ban4 wei4	
-重生	chong2 sen1	
 重生父母	chong2 sen1 fu4 mu3	
 重生爷娘	chong2 sen1 ye2 niang2	
-重申	chong2 shen1	
-重叠	chong2 die5	
 重眼皮	chong2 yan3 pi2	
-重睹天日	chong2 du3 tian1 ri5	
-重瞳	chong2 tong2	
 重碳酸钙	chong2 tan4 suan1 gai4	
 重碳酸盐	chong2 tan4 suan1 yan2	
 重码词频	chong2 ma3 ci2 pin2	
-重颖	chong2 yin3	
 重算	chong2 suan4	
-重组	chong2 zu3	
 重结晶	chong2 jie5 zin1	
-重编	chong2 bian1	
 重编本国语辞典	chong2 bian1 ben3 gue5 yu3 ci2 dian3	
 重茧	chong2 jian3	
 重置价格	chong2 zhi4 jia4 ge5	
-重罗面	chong2 lo2 mian4	
-重考	chong2 kao3	
-重耳	chong2 er3	
-重聚	chong2 zv4	
-重台	chong2 tai2	
-重舌	chong2 she5	
-重华	chong2 hua2	
 重华宫	chong2 hua2 gong1	
 重落	chong2 lo5	
 重裀列鼎	chong2 yin1 lie5 din3	
 重裀叠褥	chong2 yin1 die5 ru4	
-重复	chong2 fu5	
 重复启动效应	chong2 fu5 qi3 dong4 xiao4 yin4	
 重复法	chong2 fu5 fa5	
 重复节	chong2 fu5 zie5	
 重复语境	chong2 fu5 yu3 jin3	
 重复课税	chong2 fu5 ko4 shui4	
-重复	chong2 fu5	
 重复性	chong2 fu5 sin4	
 重见天日	chong2 jian4 tian1 ri5	
 重见复出	chong2 jian4 fu5 chu5	
 重规叠矩	chong2 gui1 die5 ju3	
 重规累矩	chong2 gui1 lui3 ju3	
 重规袭矩	chong2 gui1 syi5 ju3	
-重亲	chong2 cin1	
 重访	chong2 fang3	
 重设	chong2 she5	
 重评	chong2 pin2	
-重译	chong2 yi5	
 重贴现率	chong2 tie1 xian4 lu5	
-重赴鹿鸣	chong2 fu4 lu5 min2	
 重足侧目	chong2 zu5 ce5 mu5	
 重足而立	chong2 zu5 er2 li5	
 重趼	chong2 jian3	
 重蹈	chong2 dao4	
 重蹈覆辙	chong2 dao4 fu5 zhe5	
-重轩	chong2 xuan1	
 重返	chong2 fan3	
 重迭	chong2 die5	
 重述	chong2 shu4	
 重造	chong2 cao4	
-重逢	chong2 fong2	
-重重	chong2 chong2	
 重重叠叠	chong2 chong2 die5 die5	
 重重落落	chong2 chong2 lo5 lo5	
-重门	chong2 men2	
 重门击柝	chong2 men2 ji5 to5	
 重门深锁	chong2 men2 shen1 so3	
 重开	chong2 kai1	
-重闺	chong2 gui1	
 重闱	chong2 wei2	
-重关	chong2 guan1	
 重阻	chong2 zu3	
-重阴	chong2 yin1	
-重阳	chong2 yang2	
 重阳日	chong2 yang2 ri5	
 重阳木	chong2 yang2 mu5	
 重阳节	chong2 yang2 zie5	
 重霄	chong2 siao1	
 重霤	chong2 liu4	
-重黎	chong2 li2	
 钢琴二重奏	gang1 qin2 er4 chong2 zou4	
 隔重肚皮隔重山	ge5 chong2 du4 pi2 ge5 chong2 shan1	
-双重	shuang1 chong2	
 双重人格	shuang1 chong2 ren2 ge5	
 双重国籍	shuang1 chong2 gue5 zyi5	
 双重标准	shuang1 chong2 biao1 zhun3	
@@ -18726,7 +18305,6 @@
 食不重肉	shi5 bu5 chong2 ru5	
 骨肉重逢	gu5 rou4 chong2 fong2	
 骨肉重逢	gu5 ru5 chong2 fong2	
-高山重嶂	gao1 shan1 chong2 zhang4	
 梁山泊	liang2 shan1 pe5	
 漂泊	piao1 bo5	
 湖泊	hu2 pe5	
@@ -18827,7 +18405,6 @@
 这样	Rzhong1			
 那样	Rlong1			
 是那样	Rshong1			
-夜深	Rye1 shen1			
 你们	Rnin3			
 我们	Rngong3			
 我们	Rngun3			
@@ -18945,7 +18522,6 @@
 你老	niang3
 你老ㄦ	niaer3
 灶屋	zao4 wu5
-灶屋	zao4 wu5
 瓜眉日眼	gua1 mi2 ri5 yan3
 瓜眉瓜眼	gua1 mi2 gua1 yan3
 怪眉怪眼	guai4 mi2 guai4 yan3
@@ -18964,7 +18540,6 @@
 汤圆ㄦ	tang1 yuar2
 汤圆ㄦ	tang1 yuer2
 蛾蛾ㄦ	o2 wer1
-莫得	mo5 de
 不得行	dou1 de5 xin2
 瓜的	gua1 Ddi1
 为啥子	wei4 sa4 zi3
@@ -19001,7 +18576,6 @@
 瓜不褦襶
 潽浪
 一潽浪子
-脚簳
 脚簳
 满宕宕
 宕宕
@@ -19240,7 +18814,6 @@
 短吃少穿
 吃白墨饭
 吃里扒外
-吃著不尽
 吃麻栗子
 吃奶气力
 吃糠咽菜
@@ -19346,7 +18919,6 @@
 癞蛤蟆想吃天鹅肉
 靠山吃山靠水吃水
 看菜吃饭量体裁衣
-吃著碗里瞧著锅里
 管山吃山管水吃水
 吃苦在前享受在后
 吃苦在先享受在后
@@ -19516,7 +19088,6 @@
 吃巴片ㄦ
 糍粑心肠
 吃得干
-吃得开
 吃干了
 吃混糖锅魁
 吃安胎
@@ -20414,7 +19985,6 @@
 烧腊
 骚刨
 烧心
-烧烟
 骚籽籽
 扫扫ㄦ
 塞包袱
@@ -20672,7 +20242,6 @@
 烟哥
 烟锅巴
 烟火架
-烟灰
 烟屁股
 焉嘌嘌
 烟子
@@ -21042,7 +20611,6 @@
 吃福息
 吃干马尽
 吃过刀面
-吃花酒
 吃花筵酒
 吃宽面
 吃老欺
@@ -21516,7 +21084,6 @@
 狗儿绅粮
 狗屎蜂造不起蜜
 孤拐
-姑娘ㄦ
 啯噜子
 孤人
 估奸
@@ -23423,12 +22990,10 @@
 吃得亏打得拢堆
 吃得梭
 吃定心汤圆ㄦ
-吃飞醋
 吃干胡豆ㄦ
 吃整笼心肺
 吃海喽
 吃加班茶
-吃交
 吃开水
 吃空气
 吃吂吂
@@ -23822,7 +23387,6 @@
 赶功
 赶花会ㄦ
 赶人亲
-干沙沙
 刚合适
 杠上花
 高才
@@ -24633,7 +24197,6 @@
 跑山猪
 跑趟趟ㄦ
 跑冤枉趟子
-泡粑
 泡三花
 拍巴巴掌
 拍豆腐干ㄦ
@@ -24682,7 +24245,6 @@
 潽湫㵍舷
 铺当
 欺哄黑诈
-七姑娘ㄦ
 漆黑家
 齐铺铺
 起打猫ㄦ心肠
@@ -24761,7 +24323,6 @@
 软不啦叽
 软哒哒
 软刀兑
-沙刉刉
 砂锅
 沙盔ㄦ
 砂糖
@@ -25208,7 +24769,6 @@
 摇昏
 要得唦
 要遭弄
-叶子烟
 野猪ㄦ
 衣胞子
 咿儿哟呀儿哟
@@ -25426,7 +24986,6 @@
 竹筒筒
 竹丫子
 抓不到缰
-抓拿骗吃
 抓沙抵水
 抓天
 抓周
@@ -27028,7 +26587,6 @@
 拚天拚地
 揹犁
 背风
-
 锛锄
 螕虱
 滗清
@@ -27104,7 +26662,6 @@
 哈ㄦ
 豁鼻子
 蠚麻
-呵脬ㄦ
 晎晎
 烘笼
 花猫ㄦ吊嘴
@@ -27370,7 +26927,6 @@
 吃福喜
 吃裹饺
 吃黑饭
-吃讲茶
 吃两头望
 吃雷
 吃抹和
@@ -28305,9 +27861,6 @@
 成器
 成群打浪
 寸节子
-吃白饭
-吃白食
-吃茶
 吃得落
 吃挂面
 吃裹绞
@@ -29784,10 +29337,8 @@
 吃得饱
 吃得㡀
 吃得下去
-吃豆腐
 吃䇏
 吃反应
-吃饭
 吃福席
 吃朒朒
 吃果果
@@ -29804,15 +29355,12 @@
 吃气质
 吃晌午
 吃耍耍饭
-吃水
 吃头
-吃透
 瓷碗ㄦ
 吃玄钱
 吃鱼吐刺
 吃诈钱
 吃自己
-吃准
 齿轮ㄦ
 搓衣板
 翀拳
@@ -30049,7 +29597,6 @@
 行市
 籇籇
 豪强霸道
-好吃
 好吃狗ㄦ
 好吃嘴ㄦ
 镐得圆
@@ -30332,7 +29879,6 @@
 马咬牛
 码实在
 马尾云
-蛮刉刉
 蛮力
 满当当
 满十
@@ -31072,19 +30618,14 @@
 成不成
 称头
 吃错了药
-吃醋
-吃独食
 吃二台
 吃皇粮
-吃力不讨好
 吃了豹子胆
 吃了五谷想六谷
 吃麻麻鱼
 吃起脚
-吃软不吃硬
 吃软饭
 吃受气饭
-吃现成饭
 吃鱼没得打鱼乐
 绰绰
 戳窟窿
@@ -31875,7 +31416,6 @@
 驾火
 剪头
 检药
-搅团
 绝业
 看屋
 客火
@@ -31884,7 +31424,6 @@
 懒龙
 揽子
 牢饭
-老刉刉
 老红叶
 老屋
 老爷
@@ -31892,7 +31431,6 @@
 撩檐
 簝叶
 𫍴謰
-络耳胡
 露白
 麻打伙
 麻篮
@@ -33830,7 +33368,6 @@
 麻螂子
 裯子
 杵人
-涮坛子
 护种
 猫ㄦ刺
 起騲
@@ -33943,7 +33480,6 @@
 平班人
 干挨
 干滚龙
-干疮
 干辣
 厨子
 弟兄伙
@@ -33976,7 +33512,6 @@
 拜天地
 指拇
 指甲壳
-挨棒棒
 挂青
 接亲
 提虚劲ㄦ
@@ -34260,7 +33795,6 @@
 旺相
 下叫
 记性
-断纤
 大气
 搁处
 雾罩
@@ -34385,14 +33919,12 @@ B货
 看笑场
 照看
 忌肚
-下面
 劲仗
 放线
 会哨
 下路
 过价
 烂路
-富态
 旋ㄦ
 记认
 命囟ㄦ
@@ -34507,7 +34039,6 @@ B货
 二晃晃
 上顿盖下顿
 要命
-棒棒面
 蔽静
 正务
 派势
