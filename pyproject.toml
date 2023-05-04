@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sichuanhua"
+version = "0.1.0"
+description = ""
+authors = ["Kevin Li <kevinli020508@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+opencc-python-reimplemented = "^0.1.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

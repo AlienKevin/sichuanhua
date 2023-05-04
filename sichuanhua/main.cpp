@@ -29,15 +29,15 @@ string strip(string myString) {
     }
 }
 
-int main()
-{
+using PrDict = unordered_map<string, vector<string>>;
+
+PrDict readPrDict() {
     // Open the CSV file
-    ifstream file("shupin.dict.yaml");
-//    cout << "Reading shupin.dict" << endl;
-
+    ifstream file("shupin.simp.dict.yaml");
+    
     // Declare variables to hold the values
-    unordered_map<string, vector<string>> prs;
-
+    PrDict prs;
+    
     // Read each line of the file
     string line;
     while (getline(file, line))
@@ -47,7 +47,7 @@ int main()
         string word;
         getline(ss, word, '\t');
         word = strip(word);
-//        cout << word << ":";
+        //        cout << word << ":";
         string pr;
         getline(ss, pr, '\t');
         pr = strip(pr);
@@ -60,7 +60,7 @@ int main()
             pr_ustr.truncate(index);
             pr_ustr.toUTF8String(output);
             pr = output;
-//            cout << "pr: " << pr << ", index: " << index << endl;
+            //            cout << "pr: " << pr << ", index: " << index << endl;
         }
         
         if (word.empty() || pr.empty()) {
@@ -72,18 +72,38 @@ int main()
             prs[word] = vector<string>{pr};
         }
     }
-    
-    cout << prs.size() << endl;
+    return prs;
+}
 
-    // Output the values
-    for (auto const& pair : prs)
-    {
-        string pr = accumulate(begin(pair.second), end(pair.second), string(),
-                               [](const string& a, const string& b) -> string {
-                                   return a.empty() ? b : a + ", " + b;
-        });
-        std::cout << pair.first << ": " << pr << std::endl;
+vector<string> lookupPrDict(PrDict prs, string word) {
+    auto pr = prs.find(word);
+    if (pr != prs.end()) {
+        return pr->second;
+    } else {
+        return vector<string> {};
     }
+}
 
+int main(int argc, char** argv)
+{
+    // Parse command-line arguments
+    if (argc < 2) {
+        cout << "Usage: sch <word>" << endl;
+        return 0;
+    }
+    string word = argv[1];
+    
+    PrDict prs = readPrDict();
+
+    vector<string> pr_results = lookupPrDict(prs, word);
+    
+    if (pr_results.empty()) {
+        cout << word << " is not found." << endl;
+    } else {
+        cout << word << ": " << accumulate(pr_results.begin(), pr_results.end(), std::string(), [&](auto a, auto b) {
+            return a.empty() ? b : a + ", " + b;
+        }) << endl;
+    }
+    
     return 0;
 }
