@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0A81353429FDD3D40019A025 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0A81353329FDD3D40019A025 /* main.cpp */; };
 		0AEB705F2A039DE7000E97CD /* shupin.simp.dict.yaml in CopyFiles */ = {isa = PBXBuildFile; fileRef = 0AEB705E2A039A60000E97CD /* shupin.simp.dict.yaml */; };
+		0AEB70622A04B8DC000E97CD /* fangyan.json in CopyFiles */ = {isa = PBXBuildFile; fileRef = 0A2D64A42A01E30A00EE1DC5 /* fangyan.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -18,6 +19,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 7;
 			files = (
+				0AEB70622A04B8DC000E97CD /* fangyan.json in CopyFiles */,
 				0AEB705F2A039DE7000E97CD /* shupin.simp.dict.yaml in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -30,6 +32,7 @@
 		0A81353329FDD3D40019A025 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		0A81353A29FDD4080019A025 /* shupin.dict.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = shupin.dict.yaml; sourceTree = "<group>"; };
 		0AEB705E2A039A60000E97CD /* shupin.simp.dict.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = shupin.simp.dict.yaml; sourceTree = "<group>"; };
+		0AEB70602A04A7DC000E97CD /* json.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = json.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +49,7 @@
 		0A81352729FDD3D40019A025 = {
 			isa = PBXGroup;
 			children = (
+				0AEB70612A04A8C9000E97CD /* include */,
 				0AEB705E2A039A60000E97CD /* shupin.simp.dict.yaml */,
 				0A81353A29FDD4080019A025 /* shupin.dict.yaml */,
 				0A2D64A42A01E30A00EE1DC5 /* fangyan.json */,
@@ -76,6 +80,14 @@
 			children = (
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0AEB70612A04A8C9000E97CD /* include */ = {
+			isa = PBXGroup;
+			children = (
+				0AEB70602A04A7DC000E97CD /* json.hpp */,
+			);
+			path = include;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,7 +269,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Z5TP7VUYRW;
 				ENABLE_HARDENED_RUNTIME = YES;
-				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/icu4c-iosx/product/include";
+				HEADER_SEARCH_PATHS = (
+					"$(PROJECT_DIR)/icu4c-iosx/product/include",
+					"$(PROJECT_DIR)/include",
+				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/sichuanhua",
@@ -276,7 +291,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Z5TP7VUYRW;
 				ENABLE_HARDENED_RUNTIME = YES;
-				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/icu4c-iosx/product/include";
+				HEADER_SEARCH_PATHS = (
+					"$(PROJECT_DIR)/icu4c-iosx/product/include",
+					"$(PROJECT_DIR)/include",
+				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/sichuanhua",

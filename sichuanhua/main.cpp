@@ -6,8 +6,27 @@
 #include <numeric>
 #include <unicode/unistr.h>
 #include <regex>
+#include <json.hpp>
+#include <optional>
 
 using namespace std;
+using json = nlohmann::json;
+
+using PrDict = unordered_map<string, vector<string>>;
+
+struct FYDefinition {
+    string definition;
+    vector<string> examples;
+};
+
+struct FYEntry {
+    string category;
+    string annotation;
+    string pinyin;
+    vector<FYDefinition> definitions;
+};
+
+using FYDict = unordered_map<string, FYEntry>;
 
 string strip(string myString) {
     // Remove leading whitespace
@@ -29,8 +48,6 @@ string strip(string myString) {
         return myString;
     }
 }
-
-using PrDict = unordered_map<string, vector<string>>;
 
 PrDict readPrDict() {
     // Open the CSV file
@@ -133,6 +150,58 @@ PrDict convertToCenduPrDict(PrDict prs) {
     return prs;
 }
 
+bool isAnnotation(const string& str) {
+    icu::UnicodeString unicode = icu::UnicodeString::fromUTF8(str);
+    array<icu::UnicodeString, 4> annPrefixes = {"又说", "又作", "又音", "同 "};
+    return any_of(annPrefixes.begin(), annPrefixes.end(), [unicode](auto& prefix) {
+        return unicode.startsWith(prefix);
+    });
+}
+
+FYDict readFYDict() {
+    // Read in the JSON file
+    ifstream jsonFile("fangyan.json");
+    json fyJson;
+    jsonFile >> fyJson;
+
+    // Create an unordered_map to store the key-value pairs
+    FYDict dict;
+
+    // Inserting the key-value pairs from the JSON dictionary into the unordered_map
+    for (auto& [category, entries] : fyJson.items()) {
+        for (auto& entry : entries) {
+            FYEntry fyEntry;
+            fyEntry.category = category;
+            fyEntry.pinyin = entry["pinyin"];
+            auto definitions = entry["definitions"].items();
+            auto startDefinition = definitions.begin();
+            if (isAnnotation(definitions.begin().value()[0])) {
+                fyEntry.annotation = definitions.begin().value()[0];
+                startDefinition = next(startDefinition);
+            }
+            for (auto it = startDefinition; it != definitions.end(); ++it) {
+                FYDefinition fyDefinition;
+                fyDefinition.definition = it.value()[0];
+                for (auto& example : it.value()[1]) {
+                    fyDefinition.examples.push_back(example);
+                }
+                fyEntry.definitions.push_back(fyDefinition);
+            }
+            dict[entry["word"]] = fyEntry;
+        }
+    }
+    
+    return dict;
+}
+
+optional<FYEntry> lookupFYDict(FYDict& fyDict, string word) {
+    if (fyDict.count(word)) {
+        return fyDict[word];
+    } else {
+        return std::nullopt;
+    }
+}
+
 int main(int argc, char** argv)
 {
     // Parse command-line arguments
@@ -141,18 +210,32 @@ int main(int argc, char** argv)
         return 0;
     }
     PrDict prs = convertToCenduPrDict(readPrDict());
+    FYDict fyDict = readFYDict();
     
     for (int i = 1; i < argc; i++) {
         string word = argv[i];
         
-        vector<string> pr_results = lookupPrDict(prs, word);
-        
-        if (pr_results.empty()) {
-            cout << word << " is not found." << endl;
+        auto fyEntry = lookupFYDict(fyDict, word);
+        if (fyEntry) {
+            FYEntry entry = fyEntry.value();
+            cout << word << ": " << entry.pinyin << " " << entry.annotation << endl;
+            for (auto& definition : entry.definitions) {
+                cout << "  " << definition.definition << endl;
+                vector<string> examples = definition.examples;
+                for (auto& example : examples) {
+                    cout << "    " << example << endl;
+                }
+            }
         } else {
-            cout << word << ": " << accumulate(pr_results.begin(), pr_results.end(), std::string(), [&](auto a, auto b) {
-                return a.empty() ? b : a + ", " + b;
-            }) << endl;
+            vector<string> pr_results = lookupPrDict(prs, word);
+            
+            if (pr_results.empty()) {
+                cout << word << " is not found." << endl;
+            } else {
+                cout << word << ": " << accumulate(pr_results.begin(), pr_results.end(), std::string(), [&](auto a, auto b) {
+                    return a.empty() ? b : a + ", " + b;
+                }) << endl;
+            }
         }
     }
     
