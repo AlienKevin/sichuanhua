@@ -1208,7 +1208,7 @@
       ]
     },
     {
-      "word": "滑*",
+      "word": "",
       "pinyin": "hua2",
       "definitions": [
         [
@@ -1559,7 +1559,7 @@
       ]
     },
     {
-      "word": "nuan二",
+      "word": "&#174258;二",
       "pinyin": "nuan2er4",
       "definitions": [
         [
@@ -1591,7 +1591,7 @@
       ]
     },
     {
-      "word": "𤆵蛋",
+      "word": "&#147893;蛋",
       "pinyin": "pa1dan4",
       "definitions": [
         [
@@ -1601,11 +1601,11 @@
       ]
     },
     {
-      "word": "𤆵耳朵",
+      "word": "&#147893;耳朵",
       "pinyin": "pa1er3do1",
       "definitions": [
         [
-          "怕老婆的人。 又指 “𤆵耳朵车”。",
+          "怕老婆的人。 又指 “&#147893;耳朵车”。",
           []
         ]
       ]
@@ -1914,7 +1914,7 @@
       "pinyin": "tou3song2",
       "definitions": [
         [
-          "又作 “抖捒”。 ",
+          "又作 “抖捒”、 “抖&#174617;”。 ",
           []
         ],
         [
@@ -2052,7 +2052,7 @@
       ]
     },
     {
-      "word": "下𤆵蛋",
+      "word": "下&#147893;蛋",
       "pinyin": "xia4pa1dan4",
       "definitions": [
         [
@@ -2503,17 +2503,7 @@
       "pinyin": "ci2mi1mi1",
       "definitions": [
         [
-          "吃奶。",
-          []
-        ]
-      ]
-    },
-    {
-      "word": "出姓",
-      "pinyin": "cu2xin4",
-      "definitions": [
-        [
-          "改嫁。",
+          "吃奶。 \n出姓 cu2xin4 改嫁。",
           []
         ]
       ]
@@ -2753,7 +2743,17 @@
       "pinyin": "kan3cao3nian2zi3",
       "definitions": [
         [
-          "本指乞丐离婚。 乞丐离婚, 无财产可分, 同睡的草帘子也割为两半。 现指： 离婚或夫妇分居; 比喻散伙。",
+          "本指乞丐离婚。 乞丐离婚, 无财产可分, 同睡的草帘子也割为两半。 现指",
+          [
+            ""
+          ]
+        ],
+        [
+          "离婚或夫妇分居。 ",
+          []
+        ],
+        [
+          "比喻散伙。",
           []
         ]
       ]
@@ -2789,7 +2789,7 @@
       ]
     },
     {
-      "word": "䠍门喜",
+      "word": "&#136743;门喜",
       "pinyin": "qia2men2xi3",
       "definitions": [
         [
@@ -3453,7 +3453,7 @@
       ]
     },
     {
-      "word": "躴指拇",
+      "word": "&#164371;指拇",
       "pinyin": "nang1zi3mu3",
       "definitions": [
         [
@@ -3877,7 +3877,7 @@
       ]
     },
     {
-      "word": "𧿨",
+      "word": "&#163816;",
       "pinyin": "ban3",
       "definitions": [
         [
@@ -3958,7 +3958,7 @@
       ]
     },
     {
-      "word": "蹅",
+      "word": "&#18389;",
       "pinyin": "ca1",
       "definitions": [
         [
@@ -4004,7 +4004,7 @@
       ]
     },
     {
-      "word": "操",
+      "word": "&#142565;",
       "pinyin": "cao4",
       "definitions": [
         [
@@ -4045,7 +4045,7 @@
       ]
     },
     {
-      "word": "搊",
+      "word": "&#61203;",
       "pinyin": "cou1",
       "definitions": [
         [
@@ -4122,11 +4122,11 @@
       ]
     },
     {
-      "word": "打䇑",
+      "word": "打&#61281;",
       "pinyin": "da3bai1bai1",
       "definitions": [
         [
-          "又说“打䇑䇑脚”。单脚跳。",
+          "又说“打&#61281; &#61281;脚”。单脚跳。",
           []
         ]
       ]
@@ -4183,7 +4183,7 @@
       "pinyin": "da3mi4tour2",
       "definitions": [
         [
-          "迷",
+          "“迷” 又作 “&#15613;”。",
           []
         ],
         [
@@ -4323,7 +4323,7 @@
       ]
     },
     {
-      "word": "横𧿨顺跳",
+      "word": "横&#163816;顺跳",
       "pinyin": "huan2ban3sun4tiao4",
       "definitions": [
         [
@@ -4373,7 +4373,7 @@
       ]
     },
     {
-      "word": "躿",
+      "word": "&#16818;",
       "pinyin": "kang2",
       "definitions": [
         [
@@ -4385,11 +4385,11 @@
       ]
     },
     {
-      "word": "跍",
+      "word": "&#61139;",
       "pinyin": "ku2",
       "definitions": [
         [
-          "又音gu1。",
+          "又音gu1。 又作 “跍”。 ",
           []
         ],
         [
@@ -4506,7 +4506,7 @@
       "pinyin": "si1gniao4",
       "definitions": [
         [
-          "又说“搊尿”、 “攧尿”。 从后面用手托起小孩的两腿, 让其小便。",
+          "又说“&#61203;尿”、 “攧尿”。 从后面用手托起小孩的两腿, 让其小便。",
           []
         ]
       ]
@@ -4522,7 +4522,7 @@
       ]
     },
     {
-      "word": "㧐",
+      "word": "&#61206;",
       "pinyin": "song3",
       "definitions": [
         [
@@ -4671,11 +4671,11 @@
   ],
   "疾病、医药": [
     {
-      "word": "䇑子",
+      "word": "&#61281;子",
       "pinyin": "bai1zi3",
       "definitions": [
         [
-          "又说 “䇑䇑儿”。 跛子。 含不尊重意。",
+          "又说 “&#61281;&#61281;儿”。 跛子。 含不尊重意。",
           []
         ]
       ]
@@ -4743,7 +4743,7 @@
       ]
     },
     {
-      "word": "䐬",
+      "word": "&#150885;",
       "pinyin": "cao2",
       "definitions": [
         [
@@ -5182,7 +5182,7 @@
       ]
     },
     {
-      "word": "津*",
+      "word": "",
       "pinyin": "jin1",
       "definitions": [
         [
@@ -5445,7 +5445,7 @@
       ]
     },
     {
-      "word": "zu",
+      "word": "&#136122;",
       "pinyin": "zu2",
       "definitions": [
         [
@@ -5481,7 +5481,7 @@
   ],
   "器具": [
     {
-      "word": "抪单",
+      "word": "&#143006;单",
       "pinyin": "ba4dan1",
       "definitions": [
         [
@@ -5571,7 +5571,7 @@
       ]
     },
     {
-      "word": "㭎炭",
+      "word": "&#15182;炭",
       "pinyin": "gang1tan4",
       "definitions": [
         [
@@ -5731,7 +5731,7 @@
       ]
     },
     {
-      "word": "凴凴",
+      "word": "&#61154;&#61154;",
       "pinyin": "pen1pen1",
       "definitions": [
         [
@@ -5741,7 +5741,7 @@
       ]
     },
     {
-      "word": "凴凴椅",
+      "word": "&#61154;&#61154;椅",
       "pinyin": "pen1pen1yi3",
       "definitions": [
         [
@@ -6238,7 +6238,7 @@
       ]
     },
     {
-      "word": "肫肝",
+      "word": "&#61238;肝",
       "pinyin": "jun4gan1",
       "definitions": [
         [
@@ -6500,7 +6500,7 @@
       "pinyin": "su4mian4",
       "definitions": [
         [
-          "指不加肉臊子的面条。",
+          "指不加肉&#19248;子的面条。",
           []
         ]
       ]
@@ -7366,7 +7366,7 @@
       "pinyin": "bian1dou3ce1",
       "definitions": [
         [
-          "又说“偏斗车”、 “𤆵耳朵车”。 带边斗的自行车。",
+          "又说“偏斗车”、 “&#147893;耳朵车”。 带边斗的自行车。",
           []
         ]
       ]
@@ -7382,11 +7382,11 @@
       ]
     },
     {
-      "word": "打𤆵的",
+      "word": "打&#147893;的",
       "pinyin": "da3pa1di2",
       "definitions": [
         [
-          "“𤆵的” 指供租用的 “𤆵耳朵车”。 雇 “𤆵耳朵车”。",
+          "“&#147893;的” 指供租用的 “&#147893;耳朵车”。 雇 “&#147893;耳朵车”。",
           []
         ]
       ]
@@ -7442,11 +7442,11 @@
       ]
     },
     {
-      "word": "𤆵耳朵车",
+      "word": "&#147893;耳朵车",
       "pinyin": "pa1er3do1ce1",
       "definitions": [
         [
-          "简称 “𤆵耳朵”, 又说“边斗车”。 一边带斗的自行车。",
+          "简称 “&#147893;耳朵”, 又说“边斗车”。 一边带斗的自行车。",
           []
         ]
       ]
@@ -7686,7 +7686,7 @@
       "pinyin": "gu2diao4",
       "definitions": [
         [
-          "“吊”。 稻穗儿。",
+          "“吊” 又作 “&#16682; ”。 稻穗儿。",
           []
         ]
       ]
@@ -7883,7 +7883,7 @@
       "pinyin": "me2diao1",
       "definitions": [
         [
-          "“吊”。 麦穗儿。",
+          "“吊” 又作 “&#16682;”。 麦穗儿。",
           []
         ]
       ]
@@ -8169,7 +8169,7 @@
       ]
     },
     {
-      "word": "荫*",
+      "word": "&#142531;",
       "pinyin": "yin4",
       "definitions": [
         [
@@ -8606,11 +8606,11 @@
       ]
     },
     {
-      "word": "䱗子",
+      "word": "&#19543;子",
       "pinyin": "can1zi3",
       "definitions": [
         [
-          "䱗鲦鱼。",
+          "&#19543;鲦鱼。",
           []
         ]
       ]
@@ -8846,7 +8846,7 @@
       ]
     },
     {
-      "word": "奶ji儿",
+      "word": "奶&#162956;儿",
       "pinyin": "nai3jier2",
       "definitions": [
         [
@@ -8876,7 +8876,7 @@
       ]
     },
     {
-      "word": "躴巴颈儿",
+      "word": "&#164371;巴颈儿",
       "pinyin": "nang1ba1jinr3",
       "definitions": [
         [
@@ -8910,7 +8910,7 @@
       "pinyin": "ni1na1zi3",
       "definitions": [
         [
-          "又说“铃 (nin1)”。蝉。",
+          "又说“铃 (nin1) &#134507; (ngang1)子”。蝉。",
           []
         ]
       ]
@@ -9321,17 +9321,7 @@
       "pinyin": "zao4ji1zi3",
       "definitions": [
         [
-          "蟋蟀。",
-          []
-        ]
-      ]
-    },
-    {
-      "word": "灶猫儿",
-      "pinyin": "zao4maor1",
-      "definitions": [
-        [
-          "蟑螂。",
+          "蟋蟀。 \n灶猫儿 zao4 maor1 蟑螂。",
           []
         ]
       ]
@@ -9976,7 +9966,7 @@
       ]
     },
     {
-      "word": "𢭃牛牛",
+      "word": "&#142147;牛牛",
       "pinyin": "dou4gniu2gniu2→dou4gniu2gniu1",
       "definitions": [
         [
@@ -10280,7 +10270,7 @@
       ]
     },
     {
-      "word": "抪",
+      "word": "&#143006;",
       "pinyin": "ba4",
       "definitions": [
         [
@@ -10549,7 +10539,7 @@
       ]
     },
     {
-      "word": "搊和",
+      "word": "&#61203;和",
       "pinyin": "cou1ho2",
       "definitions": [
         [
@@ -10584,7 +10574,7 @@
       ]
     },
     {
-      "word": "浞",
+      "word": "&#61200;",
       "pinyin": "cua2",
       "definitions": [
         [
@@ -11472,7 +11462,7 @@
       "pinyin": "mao4",
       "definitions": [
         [
-          "在米饭、 面条等上面浇上臊子、 菜汤等。",
+          "在米饭、 面条等上面浇上&#19248;子、 菜汤等。",
           []
         ],
         [
@@ -11670,7 +11660,7 @@
       ]
     },
     {
-      "word": "㧯",
+      "word": "&#14831;",
       "pinyin": "nao3",
       "definitions": [
         [
@@ -11694,7 +11684,7 @@
       ]
     },
     {
-      "word": "砑",
+      "word": "",
       "pinyin": "nga1",
       "definitions": [
         [
@@ -11801,7 +11791,7 @@
       ]
     },
     {
-      "word": "咉",
+      "word": "&#134507;",
       "pinyin": "ngang1",
       "definitions": [
         [
@@ -12017,7 +12007,7 @@
       ]
     },
     {
-      "word": "挛*",
+      "word": "&#174258;",
       "pinyin": "nuan2",
       "definitions": [
         [
@@ -12057,11 +12047,11 @@
       ]
     },
     {
-      "word": "壅",
+      "word": "&#61202;",
       "pinyin": "ong1",
       "definitions": [
         [
-          "掩盖, 遮盖",
+          "又作 “壅”。 掩盖, 遮盖",
           [
             "睡觉莫把脑壳～倒。"
           ]
@@ -12208,7 +12198,7 @@
       ]
     },
     {
-      "word": "凴",
+      "word": "&#61154;",
       "pinyin": "pen1",
       "definitions": [
         [
@@ -12224,7 +12214,7 @@
       "pinyin": "pen2",
       "definitions": [
         [
-          "液体充满而流出来",
+          "又作 “&#135938;”。 液体充满而流出来",
           [
             "水从桶头～出来了。"
           ]
@@ -12398,7 +12388,7 @@
           []
         ],
         [
-          "又作 “㮟”。 夹在中间, 不能活动",
+          "又作 “&#15263;”。 夹在中间, 不能活动",
           [
             "豆芽～牙齿。"
           ]
@@ -12428,11 +12418,11 @@
       ]
     },
     {
-      "word": "䠍",
+      "word": "&#136743;",
       "pinyin": "qia2",
       "definitions": [
         [
-          "又作 “跨”。 跨, 迈",
+          "又作 “&#18445;”、 “跨”。 跨, 迈",
           [
             "他一步～过水沟。"
           ]
@@ -12958,7 +12948,7 @@
       ]
     },
     {
-      "word": "戥",
+      "word": "&#14928;",
       "pinyin": "ten4",
       "definitions": [
         [
@@ -13259,7 +13249,7 @@
       ]
     },
     {
-      "word": "挢",
+      "word": "&#61207;",
       "pinyin": "xiao1",
       "definitions": [
         [
@@ -13310,7 +13300,7 @@
       "pinyin": "xie2",
       "definitions": [
         [
-          "火气炙人",
+          "又作“&#61246;”。 火气炙人",
           [
             "离火远点, 太～人了。"
           ]
@@ -13321,6 +13311,10 @@
       "word": "炘",
       "pinyin": "xin4",
       "definitions": [
+        [
+          "又作 “&#150846;”。 ",
+          []
+        ],
         [
           "火气炙人, 烤。 ",
           []
@@ -13420,7 +13414,7 @@
           []
         ],
         [
-          "眯缝着(眼睛)",
+          "又作 “&#152278;”。 眯缝着(眼睛)",
           [
             "～起眼睛才看得清。"
           ]
@@ -13432,7 +13426,7 @@
       "pinyin": "yan4",
       "definitions": [
         [
-          "又作“罨”。 撒 (粉状或粒状的东西)",
+          "又作“&#143227;”、 “罨”。 撒 (粉状或粒状的东西)",
           [
             "～点花椒面在凉拌菜里头。"
           ]
@@ -13444,7 +13438,7 @@
       "pinyin": "yao1",
       "definitions": [
         [
-          "驱, 赶",
+          "又作 “&#141948;”。 驱, 赶",
           [
             "把猫～开!"
           ]
@@ -13514,7 +13508,7 @@
       ]
     },
     {
-      "word": "鋊*",
+      "word": "&#61277;",
       "pinyin": "yu4",
       "definitions": [
         [
@@ -13575,7 +13569,7 @@
       ]
     },
     {
-      "word": "砸*",
+      "word": "&#13581;",
       "pinyin": "za2",
       "definitions": [
         [
@@ -13774,7 +13768,7 @@
       "pinyin": "zou3zan3",
       "definitions": [
         [
-          "变通, 通融",
+          "又作 “走&#61204;”。 变通, 通融",
           [
             "他的话就是金科玉律, 不能有丝毫～。"
           ]
@@ -14320,7 +14314,7 @@
       ]
     },
     {
-      "word": "㮟㮟",
+      "word": "&#15263;&#15263;",
       "pinyin": "ka1ka1",
       "definitions": [
         [
@@ -14435,11 +14429,11 @@
       ]
     },
     {
-      "word": "躴巴儿",
+      "word": "&#164371;巴儿",
       "pinyin": "nang1bar1",
       "definitions": [
         [
-          "又说 “躴巴根儿”。 ",
+          "又说 “&#164371;巴根儿”。 ",
           []
         ],
         [
@@ -14574,7 +14568,7 @@
       ]
     },
     {
-      "word": "嗮话",
+      "word": "&#14937;话",
       "pinyin": "sai2hua4",
       "definitions": [
         [
@@ -15344,6 +15338,10 @@
       "pinyin": "ma2za3",
       "definitions": [
         [
+          "又作 “麻&#155201;”。 ",
+          []
+        ],
+        [
           "花纹杂乱, 形象不清楚",
           [
             "这布花子～, 难看。"
@@ -15532,7 +15530,7 @@
       ]
     },
     {
-      "word": "躴",
+      "word": "&#164371;",
       "pinyin": "nang1",
       "definitions": [
         [
@@ -15723,9 +15721,13 @@
       ]
     },
     {
-      "word": "𤆵",
+      "word": "&#147893;",
       "pinyin": "pa1",
       "definitions": [
+        [
+          "又作 “&#157978;”、“&#61314;”。",
+          []
+        ],
         [
           "软 (跟 “硬” 相对)",
           [
@@ -15753,11 +15755,11 @@
       ]
     },
     {
-      "word": "𤆵和",
+      "word": "&#147893;和",
       "pinyin": "pa1ho2",
       "definitions": [
         [
-          "又作 “𤆵活”、 “𤆵合”、 “货”。",
+          "又作 “&#147893;活”、 “&#147893;合”、 “货”。",
           []
         ],
         [
@@ -15787,7 +15789,7 @@
       ]
     },
     {
-      "word": "𤆵疲",
+      "word": "&#147893;疲",
       "pinyin": "pa1pi2",
       "definitions": [
         [
@@ -15899,7 +15901,7 @@
       ]
     },
     {
-      "word": "屁cuacua",
+      "word": "屁&#61200;&#61200;",
       "pinyin": "pi4cua3cua3",
       "definitions": [
         [
@@ -15980,7 +15982,7 @@
       ]
     },
     {
-      "word": "翘",
+      "word": "&#135125;",
       "pinyin": "qiao2",
       "definitions": [
         [
@@ -16558,7 +16560,7 @@
       ]
     },
     {
-      "word": "一𤆵拉",
+      "word": "一&#147893;拉",
       "pinyin": "yi2pa1na1",
       "definitions": [
         [
@@ -16729,7 +16731,7 @@
       ]
     },
     {
-      "word": "撙",
+      "word": "&#133059;",
       "pinyin": "zen3",
       "definitions": [
         [
@@ -16838,7 +16840,7 @@
       ]
     },
     {
-      "word": "笃脚",
+      "word": "&#138282;脚",
       "pinyin": "du2juo2",
       "definitions": [
         [
@@ -17879,7 +17881,7 @@
       ]
     },
     {
-      "word": "挛*共",
+      "word": "&#174258;共",
       "pinyin": "nuan2gong4",
       "definitions": [
         [
@@ -18426,11 +18428,11 @@
   ],
   "熟语": [
     {
-      "word": "䇑子端公——坐倒使法",
+      "word": "&#61281;子端公——坐倒使法",
       "pinyin": "bai1zi3duan1gong1——zo4dao3si3fa2",
       "definitions": [
         [
-          "䇑子,即跛子。 端公,男巫。 比喻不亲自出面,只在背后使阴谋诡计。",
+          "&#61281;子,即跛子。 端公,男巫。 比喻不亲自出面,只在背后使阴谋诡计。",
           []
         ]
       ]
@@ -18446,7 +18448,7 @@
       ]
     },
     {
-      "word": "半夜吃桃子——按倒𤆵的捏",
+      "word": "半夜吃桃子——按倒&#147893;的捏",
       "pinyin": "ban4ye2ci2tao2zi3——an4dao3pa1ne1gnie1",
       "definitions": [
         [
@@ -18467,7 +18469,12 @@
     },
     {
       "word": "《百家姓》读脱头个字——开口就是钱",
-      "pinyin": "be2jia1xin4du2to2tou2go4zi4——kai1kou3jiu4si4qian2",
+      "pinyin": "be2jia1xin4du2to2tou2go4zi4——kai1kou3jiu4si4",
+      "definitions": []
+    },
+    {
+      "word": "",
+      "pinyin": "qian2",
       "definitions": [
         [
           "读脱,读掉。《百家姓》第一句是“赵钱孙李”,所以有此说。 钱,字面上指姓氏钱,运用中指金钱。",
@@ -18590,7 +18597,17 @@
       "pinyin": "ci4ba1nin2ne1ban1jiu1——bu2zi1cun1qiu1",
       "definitions": [
         [
-          "刺芭林,有刺的灌木丛。不知春秋：指不知时令的变化; 比喻不识时务。",
+          "刺芭林,有刺的灌木丛。不知春秋",
+          [
+            ""
+          ]
+        ],
+        [
+          "指不知时令的变化;",
+          []
+        ],
+        [
+          "比喻不识时务。",
           []
         ]
       ]
@@ -18647,18 +18664,32 @@
     },
     {
       "word": "灯影子抠背——牛皮作痒",
-      "pinyin": "den1yin3zi3kou1bei4——gniu2pi2zao4yang3",
+      "pinyin": "den1yin3zi3kou1",
+      "definitions": []
+    },
+    {
+      "word": "",
+      "pinyin": "bei4——gniu2pi2zao4yang3",
       "definitions": [
-        "灯影子,皮影;抠,搔。 骂人四处惹事想挨打,就像牛因皮肤发痒而 到处找地方蹭痒一样。",
-        []
+        [
+          "灯影子,皮影;抠,搔。 骂人四处惹事想挨打,就像牛因皮肤发痒而 到处找地方蹭痒一样。",
+          []
+        ]
       ]
     },
     {
       "word": "丁丁猫儿变的——除了眼睛没得脸",
-      "pinyin": "din1din1maor1bian4ne1——cu2no3yan3jin1mo2de1nian3",
+      "pinyin": "din1din1maor1bian4ne1——cu2no3yan3jin1mo2de1",
+      "definitions": []
+    },
+    {
+      "word": "",
+      "pinyin": "nian3",
       "definitions": [
-        "蜻蜓眼睛特别大,占去头部的大半,所以说“除了眼睛没得脸”。 比喻不要脸。",
-        []
+        [
+          "蜻蜓眼睛特别大,占去头部的大半,所以说“除了眼睛没得脸”。 比喻不要脸。",
+          []
+        ]
       ]
     },
     {
@@ -18727,10 +18758,17 @@
     },
     {
       "word": "狗屎做的鞭——闻也闻不得,舞也舞不得",
-      "pinyin": "gou3si3zu4ne1bian1——wen2ye2wen2bu2de2,wu3ye2wu3bu2de2",
+      "pinyin": "gou3si3zu4ne1bian1——wen2ye2wen2bu2de2,wu3ye2",
+      "definitions": []
+    },
+    {
+      "word": "",
+      "pinyin": "wu3bu2de2",
       "definitions": [
-        "闻、舞,谐“文”、“武”。 比喻什么事也做不了。",
-        []
+        [
+          "闻、舞,谐“文”、“武”。 比喻什么事也做不了。",
+          []
+        ]
       ]
     },
     {
@@ -18795,7 +18833,12 @@
     },
     {
       "word": "黄瓜还没起蒂蒂",
-      "pinyin": "huang2gua1hai2mei4qi3di4di4→huang2gua1hai2mei4qi3di4di1",
+      "pinyin": "huang2gua1hai2mei4qi3di4di4→huang2gua1hai2mei4qi3di4",
+      "definitions": []
+    },
+    {
+      "word": "",
+      "pinyin": "di1",
       "definitions": [
         [
           "起蒂蒂,长出瓜蒂。 比喻事情还没有开头。",
@@ -18905,7 +18948,12 @@
     },
     {
       "word": "猫儿抓糍粑——脱不倒爪爪",
-      "pinyin": "maor1zua1ci2ba1——to2bu2dao3zao3zao3→maor1zua1ci2ba1——to2bu2dao3zao3zao2",
+      "pinyin": "maor1zua1ci2ba1——to2bu2dao3zao3zao3→maor1zua1ci2",
+      "definitions": []
+    },
+    {
+      "word": "",
+      "pinyin": "ba1——to2bu2dao3zao3zao2",
       "definitions": [
         [
           "爪爪,爪子。 字面上指糍粑很黏,小猫的爪子如果抓上了,就很难弄掉。 比喻脱不了干系。",
@@ -18963,7 +19011,12 @@
     },
     {
       "word": "癞疙宝舔牛沟子——跳起跳起地舔",
-      "pinyin": "nai3ge2bao3tion3gniu2gou1zi3——tiao4qi3tiao4qi3ne1tian3",
+      "pinyin": "nai3ge2bao3tion3gniu2gou1zi3——tiao4qi3tiao4qi3",
+      "definitions": []
+    },
+    {
+      "word": "",
+      "pinyin": "ne1tian3",
       "definitions": [
         [
           "舔沟子,即“舔肥”,犹如说“拍马屁”。 指使劲拍马屁。",
@@ -19031,7 +19084,12 @@
     },
     {
       "word": "铺盖头挤眼睛——自己哄自己",
-      "pinyin": "pu1gai4tou2ji3yan3jin1——zi4ji3hong3zi4ji3",
+      "pinyin": "pu1gai4tou2ji3",
+      "definitions": []
+    },
+    {
+      "word": "",
+      "pinyin": "yan3jin1——zi4ji3hong3zi4ji3",
       "definitions": [
         [
           "在被子里挤眼睛,自己看不见,别人也看不见,所以说“自己哄自己”。 指自欺欺人。",
@@ -19061,7 +19119,12 @@
     },
     {
       "word": "三张纸画个人脑壳——好大的脸面",
-      "pinyin": "san1zang1zi3hua4go4ren2nao3ko2——hao3da4ne1nian3mian4",
+      "pinyin": "san1zang1zi3hua4go4ren2nao3ko2——hao3da4ne1nian3",
+      "definitions": []
+    },
+    {
+      "word": "",
+      "pinyin": "mian4",
       "definitions": [
         [
           "脸面,字面上指人脸,运用中指“爱面子”的“面子”。 好大的脸面,即好大的面子,多用作反语。",
@@ -19128,13 +19191,13 @@
       "pinyin": "tie2jiang4si3no2bu2bi4yan3——qian4cui2",
       "definitions": [
         [
-          "欠,挂牵,谐“欠缺”。 锤,谐“捶打”。 欠锤,字面上指挂牵着锤子,运用中骂人欠揍,想挨打。",
+          "欠,挂牵,谐“欠缺”。",
           []
         ]
       ]
     },
     {
-      "word": "头发上贴膏药——毛病",
+      "word": "锤,谐“捶打”。 欠锤,字面上指挂牵着锤子,运用中骂人欠揍,想挨打。 \n头发上贴膏药——毛病",
       "pinyin": "tou2fa2sang4tie2gao1yuo2——mao2bin4",
       "definitions": [
         [
