@@ -276,10 +276,12 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/sichuanhua",
+					"$(PROJECT_DIR)/icu4c-iosx/product/lib",
 				);
 				OTHER_LDFLAGS = (
 					"-licuuc",
 					"-licudata",
+					"-licui18n",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -298,10 +300,12 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/sichuanhua",
+					"$(PROJECT_DIR)/icu4c-iosx/product/lib",
 				);
 				OTHER_LDFLAGS = (
 					"-licuuc",
 					"-licudata",
+					"-licui18n",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
