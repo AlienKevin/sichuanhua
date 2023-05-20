@@ -186,7 +186,6 @@ FYDict readFYDict() {
         for (auto& entry : entries) {
             auto fyEntry = make_shared<FYEntry>();
             fyEntry->id = id;
-            fyEntry->word = entry["word"];
             fyEntry->category = category;
             string pinyin = entry["pinyin"];
             // Replace gn with n
@@ -227,6 +226,7 @@ FYDict readFYDict() {
             } else {
                 fyEntry->phoneticCharacters = false;
             }
+            fyEntry->word = word;
             dict.dictByWord[word] = fyEntry;
             dict.dictById[id] = fyEntry;
             id += 1;
@@ -512,8 +512,25 @@ void printEntry(shared_ptr<FYEntry> entry, const string& query) {
 }
 
 void say(const string& word) {
-    string command = "say --voice=\"Panpan (Premium)\" --quality=127 " + word + " > /dev/null 2>&1";
+    string command = "say --voice=\"Panpan (Premium)\" " + word + " > /dev/null 2>&1";
     system(command.c_str());
+}
+
+void sayAndSave(const string& word, int id) {
+    string command = "say --voice=\"Panpan (Premium)\" -o " + to_string(id) + ".m4a " + word + " > /dev/null 2>&1";
+    system(command.c_str());
+}
+
+void buildSoundIndex(const FYDict& dict) {
+    cout << "Building sound index for each entry of Fangyan dict..." << endl;
+    for (const auto& pair : dict.dictById) {
+        cout << pair.second->word << endl;
+        icu::UnicodeString wordUstr = icu::UnicodeString::fromUTF8(pair.second->word);
+        wordUstr.findAndReplace("——", "，");
+        string wordForPr;
+        wordUstr.toUTF8String(wordForPr);
+        sayAndSave(wordForPr, pair.first);
+    }
 }
 
 int main(int argc, char** argv)
@@ -521,37 +538,42 @@ int main(int argc, char** argv)
     // Parse command-line arguments
     if (argc < 2) {
         cout << "Usage: sch <word1> (<word2> ...)" << endl;
+        cout << "Usage: sch sounds" << endl;
         return 0;
     }
     PrDict prs = convertToCenduPrDict(readPrDict());
     FYDict fyDict = readFYDict();
     FYIndex fyIndex = buildFYIndex(fyDict);
     
-    for (int i = 1; i < argc; i++) {
-        string query = argv[i];
-        
-        auto fyEntry = lookupFYDict(fyDict, query);
-        if (fyEntry) {
-            auto entry = fyEntry.value();
-            printEntry(entry, query);
-            say(entry->word);
-        } else {
-            auto fyResult = lookupFYIndex(fyIndex, query);
-            if (fyResult.has_value()) {
-                for (int id : fyResult.value()) {
-                    auto entry = fyDict.dictById[id];
-                    printEntry(entry, query);
-                    say(entry->word);
-                }
+    if (argc == 2 && strcmp(argv[1], "sounds") == 0) {
+        buildSoundIndex(fyDict);
+    } else {
+        for (int i = 1; i < argc; i++) {
+            string query = argv[i];
+            
+            auto fyEntry = lookupFYDict(fyDict, query);
+            if (fyEntry) {
+                auto entry = fyEntry.value();
+                printEntry(entry, query);
+                say(entry->word);
             } else {
-                vector<string> pr_results = lookupPrDict(prs, query);
-                if (pr_results.empty()) {
-                    cout << query << " is not found." << endl;
+                auto fyResult = lookupFYIndex(fyIndex, query);
+                if (fyResult.has_value()) {
+                    for (int id : fyResult.value()) {
+                        auto entry = fyDict.dictById[id];
+                        printEntry(entry, query);
+                        say(entry->word);
+                    }
                 } else {
-                    cout << query << ": " << accumulate(pr_results.begin(), pr_results.end(), std::string(), [&](auto a, auto b) {
-                        return a.empty() ? b : a + ", " + b;
-                    }) << endl;
-                    say(query);
+                    vector<string> pr_results = lookupPrDict(prs, query);
+                    if (pr_results.empty()) {
+                        cout << query << " is not found." << endl;
+                    } else {
+                        cout << query << ": " << accumulate(pr_results.begin(), pr_results.end(), std::string(), [&](auto a, auto b) {
+                            return a.empty() ? b : a + ", " + b;
+                        }) << endl;
+                        say(query);
+                    }
                 }
             }
         }
