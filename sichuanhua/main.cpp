@@ -9,6 +9,7 @@
 #include <regex>
 #include <json.hpp>
 #include <optional>
+#include <cstdlib>
 
 using namespace std;
 using json = nlohmann::json;
@@ -510,6 +511,11 @@ void printEntry(shared_ptr<FYEntry> entry, const string& query) {
     }
 }
 
+void say(const string& word) {
+    string command = "say --voice=\"Panpan (Premium)\" --quality=127 " + word + " > /dev/null 2>&1";
+    system(command.c_str());
+}
+
 int main(int argc, char** argv)
 {
     // Parse command-line arguments
@@ -528,11 +534,14 @@ int main(int argc, char** argv)
         if (fyEntry) {
             auto entry = fyEntry.value();
             printEntry(entry, query);
+            say(entry->word);
         } else {
             auto fyResult = lookupFYIndex(fyIndex, query);
             if (fyResult.has_value()) {
                 for (int id : fyResult.value()) {
-                    printEntry(fyDict.dictById[id], query);
+                    auto entry = fyDict.dictById[id];
+                    printEntry(entry, query);
+                    say(entry->word);
                 }
             } else {
                 vector<string> pr_results = lookupPrDict(prs, query);
@@ -542,6 +551,7 @@ int main(int argc, char** argv)
                     cout << query << ": " << accumulate(pr_results.begin(), pr_results.end(), std::string(), [&](auto a, auto b) {
                         return a.empty() ? b : a + ", " + b;
                     }) << endl;
+                    say(query);
                 }
             }
         }
