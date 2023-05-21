@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0A5E4D162A18D270003E4A88 /* server.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0A5E4D142A18D270003E4A88 /* server.cpp */; };
 		0A5E4D1B2A19B70F003E4A88 /* dict.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0A5E4D192A19B70F003E4A88 /* dict.cpp */; };
+		0A5E4D1E2A19FD58003E4A88 /* MP3 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 0A5E4D1D2A19FD54003E4A88 /* MP3 */; };
 		0A81353429FDD3D40019A025 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0A81353329FDD3D40019A025 /* main.cpp */; };
 		0AEB705F2A039DE7000E97CD /* shupin.simp.dict.yaml in CopyFiles */ = {isa = PBXBuildFile; fileRef = 0AEB705E2A039A60000E97CD /* shupin.simp.dict.yaml */; };
 		0AEB70622A04B8DC000E97CD /* fangyan.json in CopyFiles */ = {isa = PBXBuildFile; fileRef = 0A2D64A42A01E30A00EE1DC5 /* fangyan.json */; };
@@ -21,6 +22,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 7;
 			files = (
+				0A5E4D1E2A19FD58003E4A88 /* MP3 in CopyFiles */,
 				0AEB70622A04B8DC000E97CD /* fangyan.json in CopyFiles */,
 				0AEB705F2A039DE7000E97CD /* shupin.simp.dict.yaml in CopyFiles */,
 			);
@@ -34,6 +36,7 @@
 		0A5E4D152A18D270003E4A88 /* server.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = server.hpp; sourceTree = "<group>"; };
 		0A5E4D192A19B70F003E4A88 /* dict.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dict.cpp; sourceTree = "<group>"; };
 		0A5E4D1A2A19B70F003E4A88 /* dict.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = dict.hpp; sourceTree = "<group>"; };
+		0A5E4D1D2A19FD54003E4A88 /* MP3 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = MP3; sourceTree = "<group>"; };
 		0A81353029FDD3D40019A025 /* sichuanhua */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = sichuanhua; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A81353329FDD3D40019A025 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		0A81353A29FDD4080019A025 /* shupin.dict.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = shupin.dict.yaml; sourceTree = "<group>"; };
@@ -55,6 +58,7 @@
 		0A5E4D1C2A19D5F4003E4A88 /* sounds */ = {
 			isa = PBXGroup;
 			children = (
+				0A5E4D1D2A19FD54003E4A88 /* MP3 */,
 			);
 			path = sounds;
 			sourceTree = "<group>";

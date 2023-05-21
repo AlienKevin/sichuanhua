@@ -583,15 +583,19 @@ nlohmann::json FYEntriesToJson(const std::vector<FYEntry> entries) {
     return entriesArray;
 }
 
+template<class... Ts> struct overloaded : Ts... { using Ts::operator()...; };
+template<class... Ts> overloaded(Ts...) -> overloaded<Ts...>;
+
 nlohmann::json Dict::searchResultToJson(const SearchResult& result) {
-    return std::visit([&](auto&& arg) {
-            using T = std::decay_t<decltype(arg)>;
-            if constexpr (std::is_same_v<T, CharResult>) {
-                return nlohmann::json{{"prs", arg.prs}};
-            } else if constexpr (std::is_same_v<T, EntriesResult>) {
-                return nlohmann::json{{"entries", FYEntriesToJson(arg.entries)}};
-            } else if constexpr (std::is_same_v<T, NotFoundResult>) {
-                return nlohmann::json{{"notFound", true}};
-            }
+    return std::visit(overloaded {
+        [](const CharResult& result){
+            return nlohmann::json{{"prs", result.prs}};
+        },
+        [](const EntriesResult& result) {
+            return nlohmann::json{{"entries", FYEntriesToJson(result.entries)}};
+        },
+        [](const NotFoundResult& result) {
+            return nlohmann::json{{"notFound", true}};
+        }
         }, result);
 }

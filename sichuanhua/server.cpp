@@ -10,7 +10,7 @@
 
 #define BUFFER_SIZE 1024
 #define PORT 8080
-#define AUDIO_FILE_DIRECTORY "./"
+#define AUDIO_FILE_DIRECTORY "MP3/"
 
 HTTPServer::HTTPServer() {
     serverSocket = -1;
@@ -66,6 +66,30 @@ std::string HTTPServer::readAudioFile(const std::string& fileName) {
     file.close();
 
     return oss.str();
+}
+
+std::string decodePercentEncoding(const std::string& encodedString) {
+    std::string decodedString;
+    std::stringstream ss;
+
+    for (size_t i = 0; i < encodedString.length(); ++i) {
+        if (encodedString[i] == '%') {
+            std::string hexCode = encodedString.substr(i + 1, 2);
+            int charCode;
+
+            ss.clear();
+            ss << std::hex << hexCode;
+            ss >> charCode;
+
+            decodedString += static_cast<char>(charCode);
+
+            i += 2; // Skip the two hex digits
+        } else {
+            decodedString += encodedString[i];
+        }
+    }
+
+    return decodedString;
 }
 
 void HTTPServer::start() {
@@ -129,7 +153,7 @@ void HTTPServer::start() {
             continue;
         }
 
-        if (path.starts_with("/audio")) {
+        if (path.starts_with("/audio/")) {
             // Extract file ID from the path
             int fileId;
             try {
@@ -174,13 +198,20 @@ void HTTPServer::start() {
             
             // Close the client connection
             close(clientSocket);
-        } else if (path.starts_with("/search")) {
-            std::string query = path.substr(8);  // Remove leading '/search/'
+        } else if (path.starts_with("/search/")) {
+            std::string query = decodePercentEncoding(path.substr(8));  // Remove leading '/search/'
+            std::cout << query << std::endl;
+            
+            if (query.empty()) {
+                std::cerr << "Empty search query" << std::endl;
+                close(clientSocket);
+                continue;
+            }
             
             SearchResult result = dict.search(query);
             
             // Prepare the response
-            std::string responseHeader = getJSONResponseHeader(Dict::searchResultToJson(result));
+            std::string responseHeader = getJSONResponseHeader(Dict::searchResultToJson(result).dump());
             if (responseHeader.empty()) {
                 close(clientSocket);
                 continue;
