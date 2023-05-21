@@ -17,6 +17,7 @@
 #include <json.hpp>
 #include <optional>
 #include <cstdlib>
+#include <future>
 #include "dict.hpp"
 
 using namespace std;
@@ -487,19 +488,30 @@ void Dict::say(const string& word) {
 }
 
 void sayAndSave(const string& word, int id) {
-    string command = "say --voice=\"Panpan (Premium)\" -o " + to_string(id) + ".m4a " + word + " > /dev/null 2>&1";
+    string command = "say --voice=\"Panpan (Premium)\" -o " + to_string(id) + ".m4a " + " \"[[rate 170]] " + word + "\" > /dev/null 2>&1";
     system(command.c_str());
+}
+
+void buildSound(const std::pair<const int, std::shared_ptr<FYEntry>>& pair) {
+    icu::UnicodeString wordUstr = icu::UnicodeString::fromUTF8(pair.second->word);
+    wordUstr.findAndReplace("——", "，");
+    string wordForPr;
+    wordUstr.toUTF8String(wordForPr);
+    sayAndSave(wordForPr, pair.first);
 }
 
 void Dict::buildSoundIndex() {
     cout << "Building sound index for each entry of Fangyan dict..." << endl;
-    for (const auto& pair : fyDict.dictById) {
-        cout << pair.second->word << endl;
-        icu::UnicodeString wordUstr = icu::UnicodeString::fromUTF8(pair.second->word);
-        wordUstr.findAndReplace("——", "，");
-        string wordForPr;
-        wordUstr.toUTF8String(wordForPr);
-        sayAndSave(wordForPr, pair.first);
+    
+    std::vector<std::future<void>> futures;
+
+    for (const std::pair<const int, std::shared_ptr<FYEntry>> &pair : fyDict.dictById) {
+        futures.emplace_back(std::async(std::launch::async, buildSound, pair));
+    }
+
+    // Wait for all tasks to complete
+    for (auto& future : futures) {
+        future.wait();
     }
 }
 
