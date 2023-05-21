@@ -14,11 +14,12 @@
 #include <unicode/unistr.h>
 #include <unicode/regex.h>
 #include <regex>
-#include <json.hpp>
+#include <nlohmann/json.hpp>
 #include <optional>
 #include <cstdlib>
 #include <future>
 #include "dict.hpp"
+#include <variant>
 
 using namespace std;
 using json = nlohmann::json;

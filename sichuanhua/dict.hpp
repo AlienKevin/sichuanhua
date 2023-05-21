@@ -8,7 +8,8 @@
 #ifndef dict_hpp
 #define dict_hpp
 
-#include <json.hpp>
+#include <nlohmann/json.hpp>
+#include <variant>
 
 using PrDict = std::unordered_map<std::string, std::vector<std::string>>;
 

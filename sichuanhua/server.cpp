@@ -10,7 +10,7 @@
 
 #define BUFFER_SIZE 1024
 #define PORT 8080
-#define AUDIO_FILE_DIRECTORY "MP3/"
+#define AUDIO_FILE_DIRECTORY "sounds/MP3/"
 
 HTTPServer::HTTPServer() {
     serverSocket = -1;
