@@ -13,6 +13,7 @@ ADD sichuanhua /app
 
 RUN g++ -std=gnu++20 dict.cpp main.cpp server.cpp -licuuc -licudata -licui18n -o server && chmod +x server
 
-COPY sounds/ fangyan.json shupin.simp.dict.yaml /app/
+COPY sounds/ /app/sounds/
+COPY fangyan.json shupin.simp.dict.yaml /app/
 
 CMD ["./server", "serve"]
