@@ -1,8 +1,7 @@
 FROM ubuntu:23.04
 
 # Use Aliyun mirror in China
-CMD sed -i s@/archive.ubuntu.com/@/mirrors.aliyun.com/@g /etc/apt/sources.list
-CMD sed -i s@/security.ubuntu.com/@/mirrors.aliyun.com/@g /etc/apt/sources.list
+RUN sed -i s@/archive.ubuntu.com/@/mirrors.aliyun.com/@g /etc/apt/sources.list && sed -i s@/security.ubuntu.com/@/mirrors.aliyun.com/@g /etc/apt/sources.list
 
 RUN apt-get update && apt-get install -y \
     libicu-dev \
@@ -19,7 +18,7 @@ RUN g++-13 -std=gnu++20 dict.cpp main.cpp server.cpp -licuuc -licudata -licui18n
 
 RUN mv server ../
 
-WORKDIR ../
+WORKDIR /
 
 RUN chmod +x server
 
