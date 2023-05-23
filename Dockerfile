@@ -4,8 +4,6 @@ FROM ubuntu:23.04
 # CMD sed -i s@/archive.ubuntu.com/@/mirrors.aliyun.com/@g /etc/apt/sources.list
 # CMD sed -i s@/security.ubuntu.com/@/mirrors.aliyun.com/@g /etc/apt/sources.list
 
-RUN apt-get update
-
 RUN apt-get update && apt-get install -y \
     libicu-dev \
     nlohmann-json3-dev \
