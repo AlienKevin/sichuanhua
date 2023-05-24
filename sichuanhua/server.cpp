@@ -10,37 +10,11 @@
 
 #define BUFFER_SIZE 1024
 #define PORT 8080
-#define AUDIO_FILE_DIRECTORY "sounds/MP3/"
 
 HTTPServer::HTTPServer() {
     serverSocket = -1;
     isRunning = false;
     dict = Dict();
-}
-
-std::string HTTPServer::getAudioFileName(int fileId) {
-    std::ostringstream oss;
-    oss << fileId;
-    return oss.str() + ".mp3";
-}
-
-std::string HTTPServer::getAudioResponseHeader(const std::string& fileName) {
-    std::ostringstream oss;
-    oss << "HTTP/1.1 200 OK\r\n";
-    oss << "Content-Type: audio/mpeg\r\n";
-    oss << "Content-Disposition: inline; filename=" << fileName << "\r\n";
-    oss << "Content-Length: ";
-
-    std::ifstream file(fileName, std::ios::binary | std::ios::ate);
-    if (!file) {
-        std::cerr << "Failed to open file: " << fileName << std::endl;
-        return "";
-    }
-
-    oss << file.tellg() << "\r\n\r\n";
-    file.close();
-
-    return oss.str();
 }
 
 std::string HTTPServer::getJSONResponseHeader(const std::string& json) {
@@ -50,20 +24,6 @@ std::string HTTPServer::getJSONResponseHeader(const std::string& json) {
     oss << "Content-Length: " << json.length() << "\r\n";
     oss << "\r\n";
     oss << json;
-
-    return oss.str();
-}
-
-std::string HTTPServer::readAudioFile(const std::string& fileName) {
-    std::ifstream file(fileName, std::ios::binary);
-    if (!file) {
-        std::cerr << "Failed to open file: " << fileName << std::endl;
-        return "";
-    }
-
-    std::ostringstream oss;
-    oss << file.rdbuf();
-    file.close();
 
     return oss.str();
 }

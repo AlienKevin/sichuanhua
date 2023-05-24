@@ -4,7 +4,8 @@
 #include <string>
 #include "dict.hpp"
 
-class HTTPServer {
+class HTTPServer
+{
 public:
     HTTPServer();
 
@@ -12,14 +13,11 @@ public:
     void stop();
 
 private:
-    std::string getAudioFileName(int fileId);
-    std::string getAudioResponseHeader(const std::string& fileName);
-    std::string getJSONResponseHeader(const std::string& json);
-    std::string readAudioFile(const std::string& fileName);
+    std::string getJSONResponseHeader(const std::string &json);
 
     int serverSocket;
     bool isRunning;
     Dict dict;
 };
 
-#endif  // HTTP_SERVER_H
+#endif // HTTP_SERVER_H
