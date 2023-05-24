@@ -152,53 +152,8 @@ void HTTPServer::start() {
             close(clientSocket);
             continue;
         }
-
-        if (path.starts_with("/audio/")) {
-            // Extract file ID from the path
-            int fileId;
-            try {
-                fileId = std::stoi(path.substr(7));  // Remove leading '/audio/'
-            } catch (std::invalid_argument&) {
-                std::cerr << "Invalid file ID: " << path << std::endl;
-                close(clientSocket);
-                continue;
-            }
-            
-            // Build the file name
-            std::string fileName = AUDIO_FILE_DIRECTORY + getAudioFileName(fileId);
-            
-            // Read the file data
-            std::string fileData = readAudioFile(fileName);
-            if (fileData.empty()) {
-                std::cerr << "Failed to read file: " << fileName << std::endl;
-                close(clientSocket);
-                continue;
-            }
-            
-            // Prepare the response
-            std::string responseHeader = getAudioResponseHeader(fileName);
-            if (responseHeader.empty()) {
-                close(clientSocket);
-                continue;
-            }
-            
-            // Send the response header
-            ssize_t bytesSent = write(clientSocket, responseHeader.c_str(), responseHeader.size());
-            if (bytesSent == -1) {
-                std::cerr << "Failed to send response header" << std::endl;
-                close(clientSocket);
-                continue;
-            }
-            
-            // Send the file data
-            bytesSent = write(clientSocket, fileData.c_str(), fileData.size());
-            if (bytesSent == -1) {
-                std::cerr << "Failed to send file data" << std::endl;
-            }
-            
-            // Close the client connection
-            close(clientSocket);
-        } else if (path.starts_with("/search/")) {
+        
+        if (path.starts_with("/search/")) {
             std::string query = decodePercentEncoding(path.substr(8));  // Remove leading '/search/'
             std::cout << query << std::endl;
             
